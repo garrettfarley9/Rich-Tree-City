@@ -1,0 +1,1175 @@
+BASENAME,YEARS,TreeCity,RegionName,RegionType,Metro,CountyName,X2020.01.31,PLACE,STATE,POPULATION,GEOID
+Ash Grove,14,1,Ash Grove,City,Springfield,Greene County,154473,02188,29,1634,2902188
+Augusta,11,1,Augusta,City,St. Louis,Saint Charles County,321621,02512,29,266,2902512
+Ballwin,29,1,Ballwin,City,St. Louis,Saint Louis County,304405,03160,29,30332,2903160
+Bellerive Acres,2,1,NA,NA,NA,NA,NA,04248,29,170,2904248
+Bel-Nor,3,1,Bel-Nor,City,St. Louis,Saint Louis County,152606,04348,29,1389,2904348
+Bel-Ridge,3,1,Bel-Ridge,City,St. Louis,Saint Louis County,37078,04366,29,2718,2904366
+Belton,9,1,Belton,City,Kansas City,Cass County,163702,04384,29,23348,2904384
+Blue Springs,30,1,Blue Springs,City,Kansas City,Jackson County,202836,06652,29,54370,2906652
+Branson,25,1,Branson,City,Branson,Taney County,178020,07966,29,11345,2907966
+Brentwood,32,1,Brentwood,City,St. Louis,Saint Louis County,255885,08236,29,8023,2908236
+Brookfield,6,1,Brookfield,City,,Linn County,66337,08650,29,4481,2908650
+Brunswick,20,1,Brunswick,City,,Chariton County,137076,09046,29,854,2909046
+Cameron,1,1,Cameron,City,Kansas City,Clinton County,144590,10828,29,9665,2910828
+Cape Girardeau,22,1,Cape Girardeau,City,Cape Girardeau,Cape Girardeau County,142928,11242,29,39323,2911242
+Carthage,21,1,Carthage,City,Joplin,Jasper County,106426,11656,29,14690,2911656
+Centralia,30,1,Centralia,City,Columbia,Boone County,153855,12898,29,4207,2912898
+Chesterfield,23,1,Chesterfield,City,St. Louis,Saint Louis County,409138,13600,29,47663,2913600
+Clayton,28,1,Clayton,City,St. Louis,Saint Louis County,875221,14572,29,16448,2914572
+Columbia,23,1,Columbia,City,Columbia,Boone County,195481,15670,29,120248,2915670
+Crestwood,25,1,Crestwood,City,St. Louis,Saint Louis County,238216,17218,29,11881,2917218
+Creve Coeur,23,1,Creve Coeur,City,St. Louis,Saint Louis County,506238,17272,29,18445,2917272
+Cuba,7,1,Cuba,City,,Crawford County,149556,17668,29,3340,2917668
+Dardenne Prairie,12,1,Dardenne Prairie,City,St. Louis,Saint Charles County,337143,18253,29,13139,2918253
+Des Peres,37,1,Des Peres,City,St. Louis,Saint Louis County,464978,19270,29,8567,2919270
+Dexter,27,1,Dexter,City,,Stoddard County,105357,19396,29,7885,2919396
+Ellisville,39,1,Ellisville,City,St. Louis,Saint Louis County,294853,21898,29,9581,2921898
+Elsberry,5,1,Elsberry,City,St. Louis,Lincoln County,116900,22114,29,1958,2922114
+Eureka,14,1,Eureka,City,St. Louis,Saint Louis County,277022,22834,29,10575,2922834
+Exeter,24,1,Exeter,City,,Barry County,90711,23122,29,821,2923122
+Farmington,3,1,Farmington,City,Farmington,Saint Francois County,139212,23752,29,18269,2923752
+Fayette,20,1,Fayette,City,,Howard County,126007,23842,29,2694,2923842
+Ferguson,31,1,Ferguson,City,St. Louis,Saint Louis County,70572,23986,29,20931,2923986
+Florissant,31,1,Florissant,City,St. Louis,Saint Louis County,114730,24778,29,51744,2924778
+Gladstone,18,1,Gladstone,City,Kansas City,Clay County,175005,27190,29,26995,2927190
+Glen Echo Park,3,1,Glen Echo Park,City,St. Louis,Saint Louis County,122123,27370,29,134,2927370
+Glendale,7,1,Glendale,City,St. Louis,Saint Louis County,399752,27334,29,5888,2927334
+Grandview,25,1,Grandview,City,Kansas City,Jackson County,137256,28324,29,25174,2928324
+Grantwood Village,4,1,Grantwood Village,City,St. Louis,Saint Louis County,372700,28630,29,1038,2928630
+Greendale,15,1,Greendale,City,St. Louis,Saint Louis County,90605,29152,29,822,2929152
+Hannibal,21,1,Hannibal,City,Hannibal,Marion County,107222,30214,29,17575,2930214
+Herculaneum,13,1,Herculaneum,City,St. Louis,Jefferson County,171328,31708,29,3935,2931708
+Hermann,14,1,Hermann,City,,Gasconade County,121878,31762,29,2422,2931762
+Independence,20,1,Independence,City,Kansas City,Jackson County,131494,35000,29,117207,2935000
+Jackson,25,1,Jackson,City,Cape Girardeau,Cape Girardeau County,186290,35648,29,14826,2935648
+Jefferson City,22,1,Jefferson City,City,Jefferson City,Cole County,154762,37000,29,43013,2937000
+Joplin,12,1,Joplin,City,Joplin,Jasper County,111828,37592,29,50073,2937592
+Kansas City,32,1,Kansas City,City,Kansas City,Jackson County,159781,38000,29,481417,2938000
+Kearney,7,1,Kearney,City,Kansas City,Clay County,260231,38072,29,9778,2938072
+Kirksville,22,1,Kirksville,City,Kirksville,Adair County,108161,39026,29,17483,2939026
+Kirkwood,30,1,Kirkwood,City,St. Louis,Saint Louis County,349554,39044,29,27693,2939044
+Ladue,1,1,Ladue,City,St. Louis,Saint Louis County,914113,39656,29,8586,2939656
+Lake Saint Louis,19,1,Lake Saint Louis,City,St. Louis,Saint Charles County,304819,NA,NA,NA,NA
+Laurie,4,1,NA,NA,NA,NA,NA,40916,29,1024,2940916
+Lebanon,2,1,Lebanon,City,Lebanon,Laclede County,104334,41168,29,14637,2941168
+Liberty,16,1,Liberty,City,Kansas City,Clay County,216441,42032,29,30928,2942032
+Manchester,2,1,Manchester,City,St. Louis,Saint Louis County,265200,45668,29,18189,2945668
+Maplewood,21,1,Maplewood,City,St. Louis,Saint Louis County,192443,45830,29,8008,2945830
+Marshfield,16,1,Marshfield,City,Springfield,Webster County,150328,46388,29,7226,2946388
+Maryland Heights,19,1,Maryland Heights,City,St. Louis,Saint Louis County,183132,46586,29,27128,2946586
+Maryville,22,1,Maryville,City,Maryville,Nodaway County,152458,46640,29,11771,2946640
+Memphis,27,1,NA,NA,NA,NA,NA,47270,29,1803,2947270
+Mexico,41,1,Mexico,City,Mexico,Audrain County,90450,47648,29,11544,2947648
+Moberly,1,1,Moberly,City,Moberly,Randolph County,69845,49034,29,13762,2949034
+Mountain View,21,1,Mountain View,City,West Plains,Howell County,116560,50438,29,2658,2950438
+North Kansas City,23,1,North Kansas City,City,Kansas City,Clay County,151562,53102,29,4414,2953102
+Northwoods,1,1,Northwoods,City,St. Louis,Saint Louis County,45913,53408,29,4148,2953408
+O Fallon,17,1,O Fallon,City,St. Louis,Saint Charles County,258820,NA,NA,NA,NA
+Ozark,13,1,Ozark,City,Springfield,Christian County,195468,55766,29,19418,2955766
+Pagedale,4,1,Pagedale,City,St. Louis,Saint Louis County,30175,55964,29,3291,2955964
+Paris,3,1,Paris,City,,Monroe County,104010,56144,29,1445,2956144
+Parkville,30,1,Parkville,City,Kansas City,Platte County,438579,56288,29,6524,2956288
+Pasadena Hills,4,1,Pasadena Hills,City,St. Louis,Saint Louis County,199141,56396,29,994,2956396
+Peculiar,6,1,Peculiar,City,Kansas City,Cass County,236657,56756,29,5006,2956756
+Pine Lawn,3,1,Pine Lawn,City,St. Louis,Saint Louis County,26483,57800,29,3513,2957800
+Pineville,3,1,Pineville,City,Fayetteville-Springdale-Rogers,McDonald County,132464,57818,29,811,2957818
+Pleasant Hill,3,1,Pleasant Hill,City,Kansas City,Cass County,205179,58394,29,8418,2958394
+Raymore,7,1,Raymore,City,Kansas City,Cass County,237656,60752,29,20743,2960752
+Raytown,17,1,Raytown,City,Kansas City,Jackson County,131811,60788,29,29216,2960788
+Richmond Heights,24,1,Richmond Heights,City,St. Louis,Saint Louis County,285811,61706,29,8457,2961706
+Rock Hill,34,1,Rock Hill,City,St. Louis,Saint Louis County,222538,62660,29,4637,2962660
+Rogersville,1,1,Rogersville,City,Springfield,Greene County,210241,62894,29,3644,2962894
+Rolla,1,1,Rolla,City,Rolla,Phelps County,148820,62912,29,20117,2962912
+Saint Charles,14,1,Saint Charles,City,St. Louis,Saint Charles County,220468,NA,NA,NA,NA
+Savannah,23,1,Savannah,City,St. Joseph,Andrew County,155780,66044,29,5124,2966044
+Sedalia,11,1,Sedalia,City,Sedalia,Pettis County,101015,66440,29,21642,2966440
+Shrewsbury,1,1,Shrewsbury,City,St. Louis,Saint Louis County,203560,67700,29,6166,2967700
+Springfield,35,1,Springfield,City,Springfield,Greene County,148248,70000,29,166633,2970000
+Saint Joseph,27,1,Saint Joseph,City,St. Joseph,Buchanan County,105422,NA,NA,NA,NA
+Saint Louis,38,1,Saint Louis,City,St. Louis,Saint Louis City,124127,NA,NA,NA,NA
+Saint Peters,22,1,Saint Peters,City,St. Louis,Saint Charles County,216651,NA,NA,NA,NA
+Saint James,5,1,Saint James,City,Rolla,Phelps County,143679,NA,NA,NA,NA
+Sturgeon,24,1,Sturgeon,City,Columbia,Boone County,161039,71224,29,820,2971224
+Sunset Hills,13,1,Sunset Hills,City,St. Louis,Saint Louis County,402969,71746,29,8488,2971746
+Town & Country,20,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Troy,5,1,Troy,City,St. Louis,Lincoln County,193656,73942,29,11771,2973942
+Twin Oaks,14,1,Twin Oaks,City,St. Louis,Saint Louis County,236457,74284,29,342,2974284
+Union,7,1,Union,City,St. Louis,Franklin County,167909,74626,29,11274,2974626
+University City,38,1,University City,City,St. Louis,Saint Louis County,198975,75220,29,34653,2975220
+Village of Hanley Hills,4,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Village of Velda Village Hills,6,1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Vinita Park,4,1,Vinita Park,City,St. Louis,Saint Louis County,61601,76246,29,1931,2976246
+Warrensburg,10,1,Warrensburg,City,Warrensburg,Johnson County,173571,77092,29,20025,2977092
+Warrenton,10,1,Warrenton,City,St. Louis,Warren County,169707,77128,29,8129,2977128
+Warson Woods,31,1,Warson Woods,City,St. Louis,Saint Louis County,460420,77182,29,1915,2977182
+Washington,15,1,Washington,City,St. Louis,Franklin County,201170,77416,29,13987,2977416
+Webster Groves,37,1,Webster Groves,City,St. Louis,Saint Louis County,317430,78154,29,23029,2978154
+Wentzville,10,1,Wentzville,City,St. Louis,Saint Charles County,262901,78442,29,37485,2978442
+West Plains,9,1,West Plains,City,West Plains,Howell County,129423,78928,29,12222,2978928
+Wildwood,10,1,Wildwood,City,St. Louis,Saint Louis County,398699,79820,29,35517,2979820
+Willard,22,1,Willard,City,Springfield,Greene County,164819,79882,29,5453,2979882
+Lees Summit,NA,0,Lees Summit,City,Kansas City,Jackson County,262487,NA,NA,NA,NA
+Fenton,NA,0,Fenton,City,St. Louis,Saint Louis County,240822,23950,29,4034,2923950
+Arnold,NA,0,Arnold,City,St. Louis,Jefferson County,177056,01972,29,21107,2901972
+Oakville,NA,0,Oakville,City,St. Louis,Saint Louis County,250511,53876,29,36827,2953876
+Poplar Bluff,NA,0,Poplar Bluff,City,Poplar Bluff,Butler County,117067,59096,29,17107,2959096
+Nixa,NA,0,Nixa,City,Springfield,Christian County,197477,52616,29,21113,2952616
+Mehlville,NA,0,Mehlville,City,St. Louis,Saint Louis County,178897,47180,29,28376,2947180
+Festus,NA,0,Festus,City,St. Louis,Jefferson County,178885,24094,29,11970,2924094
+Neosho,NA,0,Neosho,City,Joplin,Newton County,120669,51572,29,12009,2951572
+Imperial,NA,0,Imperial,City,St. Louis,Jefferson County,210968,34354,29,4279,2934354
+De Soto,NA,0,De Soto,City,St. Louis,Jefferson County,150554,19252,29,6390,2919252
+Fulton,NA,0,Fulton,City,Jefferson City,Callaway County,143352,26182,29,12799,2926182
+Affton,NA,0,Affton,City,St. Louis,Saint Louis County,165923,00280,29,20187,2900280
+Hazelwood,NA,0,Hazelwood,City,St. Louis,Saint Louis County,114657,31276,29,25399,2931276
+Bolivar,NA,0,Bolivar,City,Springfield,Polk County,134238,06976,29,10760,2906976
+Republic,NA,0,Republic,City,Springfield,Greene County,159292,61238,29,16044,2961238
+Spanish Lake,NA,0,Spanish Lake,City,St. Louis,Saint Louis County,98515,69266,29,18048,2969266
+Overland,NA,0,Overland,City,St. Louis,Saint Louis County,98553,55550,29,15787,2955550
+Perryville,NA,0,Perryville,City,,Perry County,149027,57116,29,8403,2957116
+Concord,NA,0,Concord,City,St. Louis,Saint Louis County,235422,16030,29,17652,2916030
+Lemay,NA,0,Lemay,City,St. Louis,Saint Louis County,120435,41438,29,16814,2941438
+Jennings,NA,0,Jennings,City,St. Louis,Saint Louis County,32209,37178,29,14794,2937178
+High Ridge,NA,0,High Ridge,City,St. Louis,Jefferson County,182315,32140,29,4151,2932140
+Fort Leonard Wood,NA,0,Fort Leonard Wood,City,Fort Leonard Wood,Pulaski County,117393,25264,29,15882,2925264
+Marshall,NA,0,Marshall,City,Marshall,Saline County,113838,46316,29,13001,2946316
+Hillsboro,NA,0,Hillsboro,City,St. Louis,Jefferson County,201658,32248,29,3105,2932248
+Bonne Terre,NA,0,Bonne Terre,City,Farmington,Saint Francois County,127331,07102,29,7110,2907102
+Harrisonville,NA,0,Harrisonville,City,Kansas City,Cass County,181982,30610,29,10023,2930610
+Sikeston,NA,0,Sikeston,City,Sikeston,Scott County,112608,67790,29,16366,2967790
+Town and Country,NA,0,Town and Country,City,St. Louis,Saint Louis County,793834,73618,29,11066,2973618
+Sullivan,NA,0,Sullivan,City,,Washington County,132806,71440,29,6496,2971440
+Nevada,NA,0,Nevada,City,,Vernon County,96567,51644,29,8252,2951644
+Camdenton,NA,0,Camdenton,City,,Camden County,199471,10810,29,3977,2910810
+Sainte Genevieve,NA,0,Sainte Genevieve,City,,Sainte Genevieve County,109784,NA,NA,NA,NA
+Kennett,NA,0,Kennett,City,Kennett,Dunklin County,88191,38306,29,10225,2938306
+Oak Grove,NA,0,Oak Grove,City,Kansas City,Jackson County,189912,53624,29,8008,2953624
+Bridgeton,NA,0,Bridgeton,City,St. Louis,Saint Louis County,190221,08398,29,11690,2908398
+Saint Ann,NA,0,Saint Ann,City,St. Louis,Saint Louis County,96142,NA,NA,NA,NA
+Aurora,NA,0,Aurora,City,,Lawrence County,100110,02548,29,7435,2902548
+Bellefontaine Neighbors,NA,0,Bellefontaine Neighbors,City,St. Louis,Saint Louis County,60978,04222,29,10613,2904222
+Fredericktown,NA,0,Fredericktown,City,,Madison County,97855,25768,29,3990,2925768
+Barnhart,NA,0,Barnhart,City,St. Louis,Jefferson County,184171,03394,29,6318,2903394
+House Springs,NA,0,House Springs,City,St. Louis,Jefferson County,172465,NA,NA,NA,NA
+Waynesville,NA,0,Waynesville,City,Fort Leonard Wood,Pulaski County,178721,77992,29,5262,2977992
+Chillicothe,NA,0,Chillicothe,City,,Livingston County,115873,13690,29,9136,2913690
+Saint Robert,NA,0,Saint Robert,City,Fort Leonard Wood,Pulaski County,168644,NA,NA,NA,NA
+Salem,NA,0,Salem,City,,Dent County,106421,65234,29,4939,2965234
+Saint Clair,NA,0,Saint Clair,City,St. Louis,Franklin County,135894,NA,NA,NA,NA
+Smithville,NA,0,Smithville,City,Kansas City,Clay County,251366,68420,29,9541,2968420
+Grain Valley,NA,0,Grain Valley,City,Kansas City,Jackson County,220745,28090,29,13715,2928090
+Doniphan,NA,0,Doniphan,City,,Ripley County,101130,19792,29,2236,2919792
+Hollister,NA,0,Hollister,City,Branson,Taney County,163117,32662,29,4504,2932662
+Warsaw,NA,0,Warsaw,City,,Benton County,106770,77146,29,2469,2977146
+Buffalo,NA,0,Buffalo,City,Springfield,Dallas County,111640,09514,29,3032,2909514
+Park Hills,NA,0,Park Hills,City,Farmington,Saint Francois County,71679,56272,29,8568,2956272
+Mountain Grove,NA,0,Mountain Grove,City,,Wright County,108735,50402,29,4608,2950402
+Richmond,NA,0,Richmond,City,Kansas City,Ray County,112117,61670,29,5606,2961670
+Pevely,NA,0,Pevely,City,St. Louis,Jefferson County,169163,57278,29,5784,2957278
+Potosi,NA,0,Potosi,City,,Washington County,91922,59330,29,2617,2959330
+Weldon Spring,NA,0,Weldon Spring,City,St. Louis,Saint Charles County,464812,78314,29,5545,2978314
+Ava,NA,0,Ava,City,,Douglas County,108973,02674,29,2916,2902674
+Seymour,NA,0,Seymour,City,Springfield,Webster County,136368,66800,29,2128,2966800
+Berkeley,NA,0,Berkeley,City,St. Louis,Saint Louis County,45203,04906,29,8991,2904906
+California,NA,0,California,City,Jefferson City,Moniteau County,143426,10468,29,4375,2910468
+Valley Park,NA,0,Valley Park,City,St. Louis,Saint Louis County,207859,75472,29,6832,2975472
+Holts Summit,NA,0,Holts Summit,City,Jefferson City,Callaway County,173557,32770,29,3720,2932770
+Excelsior Springs,NA,0,Excelsior Springs,City,Kansas City,Clay County,138276,23086,29,11575,2923086
+Macon,NA,0,Macon,City,,Macon County,111818,45326,29,5379,2945326
+Cottleville,NA,0,Cottleville,City,St. Louis,Saint Charles County,328980,16678,29,4882,2916678
+Versailles,NA,0,Versailles,City,,Morgan County,152739,75922,29,2760,2975922
+Dixon,NA,0,Dixon,City,Fort Leonard Wood,Pulaski County,133335,19630,29,1256,2919630
+Scott City,NA,0,Scott City,City,Sikeston,Scott County,114881,66368,29,4503,2966368
+Licking,NA,0,Licking,City,,Texas County,123423,42464,29,2844,2942464
+Knob Noster,NA,0,Knob Noster,City,Warrensburg,Johnson County,165607,39188,29,2770,2939188
+Moscow Mills,NA,0,Moscow Mills,City,St. Louis,Lincoln County,205751,50204,29,2829,2950204
+Strafford,NA,0,Strafford,City,Springfield,Greene County,188579,71062,29,2035,2971062
+Caruthersville,NA,0,Caruthersville,City,,Pemiscot County,77479,11692,29,5760,2911692
+Monett,NA,0,Monett,City,,Barry County,101757,49196,29,8917,2949196
+Richland,NA,0,Richland,City,Fort Leonard Wood,Pulaski County,126948,61562,29,1895,2961562
+Clinton,NA,0,Clinton,City,,Henry County,79804,14986,29,9107,2914986
+Osage Beach,NA,0,Osage Beach,City,,Camden County,245222,55244,29,4909,2955244
+Greenwood,NA,0,Greenwood,City,Kansas City,Jackson County,228818,29494,29,6092,2929494
+Stockton,NA,0,Stockton,City,,Cedar County,136526,70828,29,1818,2970828
+Palmyra,NA,0,Palmyra,City,Hannibal,Marion County,148648,56036,29,3607,2956036
+Villa Ridge,NA,0,Villa Ridge,City,St. Louis,Franklin County,198095,76192,29,2497,2976192
+Malden,NA,0,Malden,City,Kennett,Dunklin County,64696,45614,29,4244,2945614
+Black Jack,NA,0,Black Jack,City,St. Louis,Saint Louis County,146284,06004,29,6943,2906004
+Piedmont,NA,0,Piedmont,City,,Wayne County,83239,57422,29,2621,2957422
+Saint John,NA,0,Saint John,City,St. Louis,Saint Louis County,80862,NA,NA,NA,NA
+Seneca,NA,0,Seneca,City,Joplin,Newton County,112456,66674,29,2570,2966674
+Marthasville,NA,0,Marthasville,City,St. Louis,Warren County,190646,46424,29,1328,2946424
+Owensville,NA,0,Owensville,City,,Gasconade County,138730,55640,29,2580,2955640
+Olivette,NA,0,Olivette,City,St. Louis,Saint Louis County,400691,54650,29,7837,2954650
+Sappington,NA,0,Sappington,City,St. Louis,Saint Louis County,265084,65954,29,7577,2965954
+Willow Springs,NA,0,Willow Springs,City,West Plains,Howell County,111539,80098,29,2179,2980098
+Higginsville,NA,0,Higginsville,City,Kansas City,Lafayette County,128324,31960,29,4628,2931960
+Cabool,NA,0,Cabool,City,,Texas County,115248,10288,29,2337,2910288
+Forsyth,NA,0,Forsyth,City,Branson,Taney County,133900,25192,29,2536,2925192
+Steelville,NA,0,Steelville,City,,Crawford County,117814,70576,29,1888,2970576
+Boonville,NA,0,Boonville,City,,Cooper County,113338,07318,29,8410,2907318
+Normandy,NA,0,Normandy,City,St. Louis,Saint Louis County,51232,52796,29,4931,2952796
+Dittmer,NA,0,Dittmer,City,St. Louis,Jefferson County,176175,NA,NA,NA,NA
+Gravois Mills,NA,0,Gravois Mills,City,,Morgan County,201560,28828,29,172,2928828
+Winfield,NA,0,Winfield,City,St. Louis,Lincoln County,172951,80422,29,1321,2980422
+Clever,NA,0,Clever,City,Springfield,Christian County,157405,14788,29,2592,2914788
+Lathrop,NA,0,Lathrop,City,Kansas City,Clinton County,167672,40826,29,2259,2940826
+Sparta,NA,0,Sparta,City,Springfield,Christian County,153839,69302,29,1642,2969302
+Lexington,NA,0,Lexington,City,Kansas City,Lafayette County,109040,41870,29,4558,2941870
+Windsor,NA,0,Windsor,City,,Henry County,72346,80350,29,2990,2980350
+Hartsburg,NA,0,Hartsburg,City,Columbia,Boone County,234158,30718,29,94,2930718
+Linn,NA,0,Linn,City,Jefferson City,Osage County,154953,43238,29,1654,2943238
+Carrollton,NA,0,Carrollton,City,,Carroll County,78505,11566,29,3637,2911566
+Fountain N' Lakes,NA,0,Fountain N' Lakes,City,St. Louis,Lincoln County,81658,25411,29,193,2925411
+Breckenridge Hills,NA,0,Breckenridge Hills,City,St. Louis,Saint Louis County,68574,08164,29,4654,2908164
+Ashland,NA,0,Ashland,City,Columbia,Boone County,206121,02242,29,3905,2902242
+Vandalia,NA,0,Vandalia,City,Mexico,Audrain County,62082,75688,29,4178,2975688
+Steele,NA,0,Steele,City,,Pemiscot County,83156,70558,29,2188,2970558
+New Haven,NA,0,New Haven,City,St. Louis,Franklin County,174773,51914,29,1952,2951914
+Montgomery City,NA,0,Montgomery City,City,,Montgomery County,136817,49574,29,2685,2949574
+Chaffee,NA,0,Chaffee,City,Sikeston,Scott County,101038,12988,29,2920,2912988
+Louisiana,NA,0,Louisiana,City,,Pike County,73218,44174,29,3272,2944174
+Granby,NA,0,Granby,City,Joplin,Newton County,92564,28108,29,2311,2928108
+Glasgow Village,NA,0,Glasgow Village,City,St. Louis,Saint Louis County,40220,27226,29,4981,2927226
+Fordland,NA,0,Fordland,City,Springfield,Webster County,161906,25012,29,915,2925012
+Stover,NA,0,Stover,City,,Morgan County,171286,71044,29,1359,2971044
+Bloomfield,NA,0,Bloomfield,City,,Stoddard County,87460,06382,29,2086,2906382
+Green Park,NA,0,Green Park,City,St. Louis,Saint Louis County,181083,29324,29,2628,2929324
+Dellwood,NA,0,Dellwood,City,St. Louis,Saint Louis County,65860,19018,29,4912,2919018
+Bethany,NA,0,Bethany,City,,Harrison County,95472,05068,29,3065,2905068
+New Bloomfield,NA,0,New Bloomfield,City,Jefferson City,Callaway County,179257,51680,29,544,2951680
+Plattsburg,NA,0,Plattsburg,City,Kansas City,Clinton County,162327,58250,29,2304,2958250
+Tipton,NA,0,Tipton,City,Jefferson City,Moniteau County,112681,73420,29,3369,2973420
+Canton,NA,0,Canton,City,Quincy,Lewis County,110207,11134,29,2616,2911134
+Macks Creek,NA,0,Macks Creek,City,,Camden County,141101,45218,29,425,2945218
+Riverside,NA,0,Riverside,City,Kansas City,Platte County,266723,62156,29,3255,2962156
+Noel,NA,0,Noel,City,Fayetteville-Springdale-Rogers,McDonald County,94853,52742,29,2424,2952742
+Houston,NA,0,Houston,City,,Texas County,111137,33238,29,2559,2933238
+Monroe City,NA,0,Monroe City,City,,Monroe County,119362,49394,29,2487,2949394
+Mansfield,NA,0,Mansfield,City,,Wright County,111298,45740,29,1450,2945740
+Puxico,NA,0,Puxico,City,,Stoddard County,97296,60284,29,931,2960284
+Milan,NA,0,Milan,City,,Sullivan County,57210,48062,29,2670,2948062
+Thayer,NA,0,Thayer,City,,Oregon County,88618,72826,29,2292,2972826
+Cadet,NA,0,Cadet,City,,Washington County,116293,NA,NA,NA,NA
+Sugar Creek,NA,0,Sugar Creek,City,Kansas City,Jackson County,94357,71368,29,3309,2971368
+Sarcoxie,NA,0,Sarcoxie,City,Joplin,Jasper County,133444,65990,29,1343,2965990
+Bernie,NA,0,Bernie,City,,Stoddard County,66660,04960,29,1957,2904960
+Woodson Terrace,NA,0,Woodson Terrace,City,St. Louis,Saint Louis County,77925,80962,29,4062,2980962
+Pacific,NA,0,Pacific,City,St. Louis,Franklin County,154901,55910,29,6329,2955910
+Billings,NA,0,Billings,City,Springfield,Christian County,179997,05626,29,983,2905626
+Crystal City,NA,0,Crystal City,City,St. Louis,Jefferson County,140669,17632,29,4752,2917632
+Saint Paul,NA,0,Saint Paul,City,St. Louis,Saint Charles County,349230,NA,NA,NA,NA
+Kimberling City,NA,0,Kimberling City,City,Branson,Stone County,199433,38612,29,2714,2938612
+Hallsville,NA,0,Hallsville,City,Columbia,Boone County,199294,29998,29,1579,2929998
+Trenton,NA,0,Trenton,City,,Grundy County,57838,73816,29,5846,2973816
+Frontenac,NA,0,Frontenac,City,St. Louis,Saint Louis County,817162,26110,29,3525,2926110
+Battlefield,NA,0,Battlefield,City,Springfield,Greene County,179177,03592,29,6104,2903592
+New London,NA,0,New London,City,Hannibal,Ralls County,145269,52058,29,886,2952058
+Desloge,NA,0,Desloge,City,Farmington,Saint Francois County,99980,19216,29,4896,2919216
+Walnut Grove,NA,0,Walnut Grove,City,Springfield,Greene County,157894,76840,29,635,2976840
+Silex,NA,0,Silex,City,St. Louis,Lincoln County,228347,67808,29,62,2967808
+Gainesville,NA,0,Gainesville,City,,Ozark County,138756,26218,29,685,2926218
+Hartville,NA,0,Hartville,City,,Wright County,128586,30754,29,578,2930754
+Montreal,NA,0,Montreal,City,,Camden County,159470,49646,29,170,2949646
+Conway,NA,0,Conway,City,Lebanon,Laclede County,141245,16192,29,674,2916192
+Pleasant Valley,NA,0,Pleasant Valley,City,Kansas City,Clay County,173216,58520,29,3033,2958520
+Taos,NA,0,Taos,City,Jefferson City,Cole County,159996,72304,29,1310,2972304
+Iberia,NA,0,Iberia,City,,Miller County,107508,34228,29,674,2934228
+Hayti,NA,0,Hayti,City,,Pemiscot County,59069,31132,29,2714,2931132
+Centerview,NA,0,Centerview,City,Warrensburg,Johnson County,186505,12682,29,246,2912682
+Platte City,NA,0,Platte City,City,Kansas City,Platte County,252553,58178,29,4905,2958178
+Kirbyville,NA,0,Kirbyville,City,Branson,Taney County,153657,39008,29,195,2939008
+Alton,NA,0,Alton,City,,Oregon County,104647,00964,29,583,2900964
+Diamond,NA,0,Diamond,City,Joplin,Newton County,127167,19432,29,921,2919432
+Gallatin,NA,0,Gallatin,City,,Daviess County,136727,26308,29,1730,2926308
+Verona,NA,0,Verona,City,,Lawrence County,146686,75886,29,481,2975886
+Robertsville,NA,0,Robertsville,City,St. Louis,Franklin County,174644,NA,NA,NA,NA
+Bates City,NA,0,Bates City,City,Kansas City,Lafayette County,234528,03556,29,207,2903556
+Kahoka,NA,0,Kahoka,City,Fort Madison-Keokuk,Clark County,119196,37790,29,2100,2937790
+Byrnes Mill,NA,0,Byrnes Mill,City,St. Louis,Jefferson County,255298,10240,29,2944,2910240
+Mineral Point,NA,0,Mineral Point,City,,Washington County,96102,48710,29,365,2948710
+Eldon,NA,0,Eldon,City,,Miller County,92505,21484,29,4591,2921484
+Lohman,NA,0,Lohman,City,Jefferson City,Cole County,205852,43652,29,174,2943652
+Auxvasse,NA,0,Auxvasse,City,Jefferson City,Callaway County,152826,02638,29,1183,2902638
+Labadie,NA,0,Labadie,City,St. Louis,Franklin County,309225,NA,NA,NA,NA
+Huntsville,NA,0,Huntsville,City,Moberly,Randolph County,107494,33886,29,1527,2933886
+Lone Jack,NA,0,Lone Jack,City,Kansas City,Jackson County,291409,43760,29,1280,2943760
+Hamilton,NA,0,Hamilton,City,Kansas City,Caldwell County,120278,30034,29,1771,2930034
+Niangua,NA,0,Niangua,City,Springfield,Webster County,143225,52418,29,608,2952418
+Rich Hill,NA,0,Rich Hill,City,Kansas City,Bates County,82248,61418,29,1425,2961418
+Unionville,NA,0,Unionville,City,,Putnam County,91481,75166,29,1998,2975166
+Goodman,NA,0,Goodman,City,Fayetteville-Springdale-Rogers,McDonald County,97412,27874,29,1441,2927874
+Russellville,NA,0,Russellville,City,Jefferson City,Cole County,159406,63704,29,751,2963704
+Gerald,NA,0,Gerald,City,St. Louis,Franklin County,162590,26866,29,1300,2926866
+Clarkson Valley,NA,0,Clarkson Valley,City,St. Louis,Saint Louis County,636913,14176,29,2640,2914176
+Elkland,NA,0,Elkland,City,Springfield,Dallas County,160557,NA,NA,NA,NA
+Marceline,NA,0,Marceline,City,,Chariton County,59682,45866,29,2021,2945866
+Riverview,NA,0,Riverview,City,St. Louis,Saint Louis County,34662,62192,29,2872,2962192
+Kingsville,NA,0,Kingsville,City,Warrensburg,Johnson County,230715,38918,29,256,2938918
+Holt,NA,0,Holt,City,Kansas City,Clay County,253437,32752,29,395,2932752
+Highlandville,NA,0,Highlandville,City,Springfield,Christian County,191300,32068,29,1044,2932068
+Old Monroe,NA,0,Old Monroe,City,St. Louis,Lincoln County,213900,54416,29,227,2954416
+Ellington,NA,0,Ellington,City,,Reynolds County,117482,21844,29,1230,2921844
+Brooklyn Heights,NA,0,Brooklyn Heights,City,Joplin,Jasper County,80996,08776,29,105,2908776
+Salisbury,NA,0,Salisbury,City,,Chariton County,120243,65450,29,1907,2965450
+Catawissa,NA,0,Catawissa,City,St. Louis,Franklin County,180427,NA,NA,NA,NA
+Adrian,NA,0,Adrian,City,Kansas City,Bates County,129510,00244,29,1793,2900244
+Barnett,NA,0,Barnett,City,,Morgan County,154035,03376,29,249,2903376
+Tebbetts,NA,0,Tebbetts,City,Jefferson City,Callaway County,173355,NA,NA,NA,NA
+Albany,NA,0,Albany,City,,Gentry County,78467,00514,29,2106,2900514
+Belle,NA,0,Belle,City,,Maries County,127177,04150,29,1458,2904150
+Slater,NA,0,Slater,City,Marshall,Saline County,67838,68204,29,2061,2968204
+Marquand,NA,0,Marquand,City,,Madison County,125124,46244,29,316,2946244
+Diehlstadt,NA,0,Diehlstadt,City,Sikeston,Scott County,63605,19486,29,188,2919486
+Blodgett,NA,0,Blodgett,City,Sikeston,Scott County,96329,06346,29,192,2906346
+Winona,NA,0,Winona,City,,Shannon County,83986,80512,29,1395,2980512
+Climax Springs,NA,0,Climax Springs,City,,Camden County,204505,14914,29,220,2914914
+Odessa,NA,0,Odessa,City,Kansas City,Lafayette County,147524,54038,29,5189,2954038
+Norwood,NA,0,Norwood,City,,Wright County,128879,53454,29,900,2953454
+Ellsinore,NA,0,Ellsinore,City,,Carter County,143409,21916,29,498,2921916
+Shelbina,NA,0,Shelbina,City,,Shelby County,85904,67178,29,1530,2967178
+Crocker,NA,0,Crocker,City,Fort Leonard Wood,Pulaski County,117946,17344,29,1152,2917344
+Gower,NA,0,Gower,City,Kansas City,Clinton County,180308,28036,29,1554,2928036
+Campbell,NA,0,Campbell,City,Kennett,Dunklin County,68007,10864,29,2165,2910864
+Grand Falls Plaza,NA,0,Grand Falls Plaza,City,Joplin,Newton County,143575,28170,29,118,2928170
+Maysville,NA,0,Maysville,City,St. Joseph,DeKalb County,145659,46946,29,1151,2946946
+Drexel,NA,0,Drexel,City,Kansas City,Cass County,174385,20134,29,806,2920134
+Weston,NA,0,Weston,City,Kansas City,Platte County,210835,78856,29,1675,2978856
+Whiteman AFB,NA,0,Whiteman AFB,City,Warrensburg,Johnson County,284628,79432,29,4093,2979432
+Leslie,NA,0,Leslie,City,St. Louis,Franklin County,186332,41690,29,123,2941690
+Madison,NA,0,Madison,City,,Monroe County,121982,45470,29,663,2945470
+Vienna,NA,0,Vienna,City,,Maries County,147880,76102,29,678,2976102
+Linn Creek,NA,0,Linn Creek,City,,Camden County,209195,43274,29,302,2943274
+Rocheport,NA,0,Rocheport,City,Columbia,Boone County,260463,62498,29,260,2962498
+Polo,NA,0,Polo,City,Kansas City,Caldwell County,169378,58916,29,551,2958916
+Mount Vernon,NA,0,Mount Vernon,City,,Lawrence County,95247,50672,29,4493,2950672
+Summersville,NA,0,Summersville,City,,Texas County,120267,71512,29,541,2971512
+Bland,NA,0,Bland,City,,Gasconade County,135830,06256,29,505,2906256
+Archie,NA,0,Archie,City,Kansas City,Cass County,175451,01702,29,1327,2901702
+Lonedell,NA,0,Lonedell,City,St. Louis,Franklin County,161485,NA,NA,NA,NA
+Miller,NA,0,Miller,City,,Lawrence County,114213,48242,29,756,2948242
+Birch Tree,NA,0,Birch Tree,City,,Shannon County,88375,05734,29,705,2905734
+Van Buren,NA,0,Van Buren,City,,Carter County,114275,75580,29,1080,2975580
+Glasgow,NA,0,Glasgow,City,,Howard County,110329,27208,29,1163,2927208
+Lincoln,NA,0,Lincoln,City,,Benton County,106342,42608,29,926,2942608
+Foley,NA,0,Foley,City,St. Louis,Lincoln County,170749,24886,29,122,2924886
+Senath,NA,0,Senath,City,Kennett,Dunklin County,68878,66638,29,1847,2966638
+Smithton,NA,0,Smithton,City,Sedalia,Pettis County,100153,68384,29,517,2968384
+Liberal,NA,0,Liberal,City,,Barton County,92541,41906,29,644,2941906
+La Monte,NA,0,La Monte,City,Sedalia,Pettis County,81341,40520,29,1380,2940520
+Laquey,NA,0,Laquey,City,Fort Leonard Wood,Pulaski County,155252,NA,NA,NA,NA
+Moline Acres,NA,0,Moline Acres,City,St. Louis,Saint Louis County,61463,49088,29,2355,2949088
+Plato,NA,0,Plato,City,,Texas County,156591,58088,29,77,2958088
+Stewartsville,NA,0,Stewartsville,City,St. Joseph,DeKalb County,167528,70738,29,697,2970738
+Cole Camp,NA,0,Cole Camp,City,,Benton County,105372,15436,29,1168,2915436
+Castle Point,NA,0,Castle Point,City,St. Louis,Saint Louis County,42530,11908,29,2593,2911908
+Buckner,NA,0,Buckner,City,Kansas City,Jackson County,138936,09424,29,3058,2909424
+Beaufort,NA,0,Beaufort,City,St. Louis,Franklin County,216217,NA,NA,NA,NA
+Annapolis,NA,0,Annapolis,City,,Iron County,102769,01270,29,420,2901270
+Blue Eye,NA,0,Blue Eye,City,Branson,Stone County,239662,06526,29,280,2906526
+Seligman,NA,0,Seligman,City,,Barry County,111654,66530,29,862,2966530
+Butler,NA,0,Butler,City,Kansas City,Bates County,88913,10054,29,4164,2910054
+Irondale,NA,0,Irondale,City,,Washington County,98691,35396,29,416,2935396
+Dennis Acres,NA,0,Dennis Acres,City,Joplin,Newton County,86322,19090,29,41,2919090
+Tarkio,NA,0,Tarkio,City,,Atchison County,65818,72340,29,1509,2972340
+Bloomsdale,NA,0,Bloomsdale,City,,Sainte Genevieve County,158523,06454,29,772,2906454
+Neck City,NA,0,Neck City,City,Joplin,Jasper County,65129,51356,29,174,2951356
+Washburn,NA,0,Washburn,City,,Barry County,133390,77200,29,491,2977200
+Eldridge,NA,0,Eldridge,City,Lebanon,Laclede County,140361,NA,NA,NA,NA
+Tuscumbia,NA,0,Tuscumbia,City,,Miller County,119487,74194,29,183,2974194
+Broseley,NA,0,Broseley,City,Poplar Bluff,Butler County,95316,NA,NA,NA,NA
+Sweet Springs,NA,0,Sweet Springs,City,Marshall,Saline County,104908,71890,29,1572,2971890
+Centertown,NA,0,Centertown,City,Jefferson City,Cole County,174018,12664,29,319,2912664
+Cape Fair,NA,0,Cape Fair,City,Branson,Stone County,165910,NA,NA,NA,NA
+Lockwood,NA,0,Lockwood,City,,Dade County,88987,43490,29,1154,2943490
+Brumley,NA,0,Brumley,City,,Miller County,103534,08974,29,95,2908974
+Appleton City,NA,0,Appleton City,City,,Saint Clair County,95283,01522,29,1240,2901522
+Holden,NA,0,Holden,City,Warrensburg,Johnson County,93876,32572,29,2453,2932572
+Millersville,NA,0,Millersville,City,Cape Girardeau,Cape Girardeau County,179620,NA,NA,NA,NA
+Green Ridge,NA,0,Green Ridge,City,Sedalia,Pettis County,101296,29332,29,452,2929332
+Portageville,NA,0,Portageville,City,,New Madrid County,83749,59186,29,3074,2959186
+Crystal Lake Park,NA,0,Crystal Lake Park,City,St. Louis,Saint Louis County,387814,17650,29,430,2917650
+Pomona,NA,0,Pomona,City,West Plains,Howell County,146418,58934,29,349,2958934
+Braymer,NA,0,Braymer,City,Kansas City,Caldwell County,85222,08038,29,686,2908038
+Harrisburg,NA,0,Harrisburg,City,Columbia,Boone County,222310,30484,29,329,2930484
+Freeburg,NA,0,Freeburg,City,Jefferson City,Osage County,192023,25822,29,498,2925822
+Bois D Arc,NA,0,Bois D Arc,City,Springfield,Greene County,197869,NA,NA,NA,NA
+Lampe,NA,0,Lampe,City,Branson,Stone County,181936,NA,NA,NA,NA
+Oak Ridge,NA,0,Oak Ridge,City,Cape Girardeau,Cape Girardeau County,190005,53786,29,228,2953786
+Wright City,NA,0,Wright City,City,St. Louis,Warren County,168181,81124,29,3593,2981124
+Flemington,NA,0,Flemington,City,,Hickory County,107320,24580,29,74,2924580
+Neelyville,NA,0,Neelyville,City,Poplar Bluff,Butler County,73286,51446,29,354,2951446
+Elmira,NA,0,Elmira,City,Kansas City,Ray County,74507,22006,29,29,2922006
+Purdy,NA,0,Purdy,City,,Barry County,91062,60176,29,1338,2960176
+Pilot Grove,NA,0,Pilot Grove,City,,Cooper County,150726,57602,29,650,2957602
+Lamar,NA,0,Lamar,City,,Barton County,79009,40376,29,4329,2940376
+New Franklin,NA,0,New Franklin,City,,Howard County,117287,51824,29,1105,2951824
+Urbana,NA,0,Urbana,City,Springfield,Dallas County,125417,75310,29,336,2975310
+Hawk Point,NA,0,Hawk Point,City,St. Louis,Lincoln County,195563,31024,29,809,2931024
+Wellsville,NA,0,Wellsville,City,,Montgomery County,136591,78406,29,1157,2978406
+Cool Valley,NA,0,Cool Valley,City,St. Louis,Saint Louis County,70223,16228,29,1164,2916228
+Bucyrus,NA,0,Bucyrus,City,,Texas County,138924,NA,NA,NA,NA
+Rayville,NA,0,Rayville,City,Kansas City,Ray County,185613,60824,29,135,2960824
+Essex,NA,0,Essex,City,,Stoddard County,65442,22600,29,526,2922600
+Fairfax,NA,0,Fairfax,City,,Atchison County,65472,23266,29,609,2923266
+Raymondville,NA,0,Raymondville,City,,Texas County,122439,60734,29,496,2960734
+Everton,NA,0,Everton,City,,Dade County,129132,22996,29,359,2922996
+Leasburg,NA,0,Leasburg,City,,Crawford County,132642,41114,29,389,2941114
+East Prairie,NA,0,East Prairie,City,,Mississippi County,52777,21052,29,3096,2921052
+Kelso,NA,0,Kelso,City,Sikeston,Scott County,119331,38216,29,568,2938216
+Bertrand,NA,0,Bertrand,City,,Mississippi County,78667,04996,29,827,2904996
+Henley,NA,0,Henley,City,Jefferson City,Cole County,183573,NA,NA,NA,NA
+Clyde,NA,0,Clyde,City,Maryville,Nodaway County,82807,15130,29,72,2915130
+Conception,NA,0,Conception,City,Maryville,Nodaway County,94177,15886,29,302,2915886
+Crystal Lakes,NA,0,Crystal Lakes,City,Kansas City,Ray County,103094,17660,29,335,2917660
+Homestead Village,NA,0,Homestead Village,City,Kansas City,Ray County,159022,NA,NA,NA,NA
+Shelbyville,NA,0,Shelbyville,City,,Shelby County,101188,67196,29,489,2967196
+Hurley,NA,0,Hurley,City,Branson,Stone County,84642,33922,29,237,2933922
+Humansville,NA,0,Humansville,City,Springfield,Polk County,74134,33706,29,1026,2933706
+Qulin,NA,0,Qulin,City,Poplar Bluff,Butler County,80468,60428,29,554,2960428
+Bunker,NA,0,Bunker,City,,Reynolds County,105272,09694,29,347,2909694
+Oakland,NA,0,Oakland,City,St. Louis,Saint Louis County,345795,53750,29,1558,2953750
+Charleston,NA,0,Charleston,City,,Mississippi County,59760,13366,29,5704,2913366
+Taneyville,NA,0,Taneyville,City,Branson,Taney County,117861,72232,29,288,2972232
+Frohna,NA,0,Frohna,City,,Perry County,153427,26092,29,235,2926092
+Leeton,NA,0,Leeton,City,Warrensburg,Johnson County,123907,41402,29,570,2941402
+Matthews,NA,0,Matthews,City,,New Madrid County,94130,46730,29,726,2946730
+Saint Mary,NA,0,Saint Mary,City,,Sainte Genevieve County,117932,NA,NA,NA,NA
+Marionville,NA,0,Marionville,City,,Lawrence County,84946,46172,29,2350,2946172
+Koshkonong,NA,0,Koshkonong,City,,Oregon County,133816,39440,29,206,2939440
+Edwards,NA,0,Edwards,City,,Camden County,153961,NA,NA,NA,NA
+Pleasant Hope,NA,0,Pleasant Hope,City,Springfield,Polk County,150646,58448,29,684,2958448
+Foster,NA,0,Foster,City,Kansas City,Bates County,68952,25372,29,184,2925372
+Hume,NA,0,Hume,City,Kansas City,Bates County,80712,33724,29,397,2933724
+Sunrise Beach,NA,0,Sunrise Beach,City,,Camden County,262034,71728,29,363,2971728
+Fisk,NA,0,Fisk,City,Poplar Bluff,Butler County,79402,24328,29,413,2924328
+Duquesne,NA,0,Duquesne,City,Joplin,Jasper County,150673,20512,29,1839,2920512
+Roach,NA,0,Roach,City,,Camden County,220255,NA,NA,NA,NA
+Meta,NA,0,Meta,City,Jefferson City,Osage County,161237,47594,29,196,2947594
+Village of Four Seasons,NA,0,Village of Four Seasons,City,,Camden County,360940,76157,29,2122,2976157
+Eminence,NA,0,Eminence,City,,Shannon County,96138,22276,29,666,2922276
+New Florence,NA,0,New Florence,City,,Montgomery County,111689,51770,29,739,2951770
+La Grange,NA,0,La Grange,City,Quincy,Lewis County,104509,39764,29,958,2939764
+Cedar Hill Lakes,NA,0,Cedar Hill Lakes,City,St. Louis,Jefferson County,113877,12376,29,258,2912376
+Oregon,NA,0,Oregon,City,,Holt County,55644,54848,29,997,2954848
+Eugene,NA,0,Eugene,City,,Miller County,161802,22798,29,269,2922798
+Biehle,NA,0,Biehle,City,,Perry County,109881,05320,29,32,2905320
+Higbee,NA,0,Higbee,City,Moberly,Randolph County,105832,31924,29,541,2931924
+Phillipsburg,NA,0,Phillipsburg,City,Lebanon,Laclede County,138309,57368,29,164,2957368
+Williamsville,NA,0,Williamsville,City,,Wayne County,151528,80026,29,403,2980026
+Edgar Springs,NA,0,Edgar Springs,City,Rolla,Phelps County,117172,21214,29,194,2921214
+Perry,NA,0,Perry,City,Hannibal,Ralls County,106532,57080,29,690,2957080
+Bowling Green,NA,0,Bowling Green,City,,Pike County,89222,07660,29,5501,2907660
+Amazonia,NA,0,Amazonia,City,St. Joseph,Andrew County,156015,01018,29,317,2901018
+Wappapello,NA,0,Wappapello,City,,Wayne County,99429,NA,NA,NA,NA
+Belgrade,NA,0,Belgrade,City,,Washington County,112449,NA,NA,NA,NA
+Country Club,NA,0,Country Club,City,St. Joseph,Andrew County,161850,16802,29,2810,2916802
+Rocky Mount,NA,0,Rocky Mount,City,,Morgan County,193309,NA,NA,NA,NA
+Arcadia,NA,0,Arcadia,City,,Iron County,113431,01648,29,653,2901648
+Montrose,NA,0,Montrose,City,,Henry County,146950,49664,29,328,2949664
+Rhineland,NA,0,Rhineland,City,,Montgomery County,177214,61328,29,125,2961328
+Fairview,NA,0,Fairview,City,Joplin,Newton County,117608,23518,29,471,2923518
+Penermon,NA,0,Penermon,City,,Stoddard County,34126,56900,29,87,2956900
+Collins,NA,0,Collins,City,,Saint Clair County,131948,15562,29,178,2915562
+Piney Park,NA,0,Piney Park,City,St. Louis,Franklin County,113518,NA,NA,NA,NA
+Rothville,NA,0,Rothville,City,,Chariton County,127421,63236,29,73,2963236
+Davisville,NA,0,Davisville,City,,Crawford County,116053,NA,NA,NA,NA
+Cedar Hill,NA,0,Cedar Hill,City,St. Louis,Jefferson County,178949,12358,29,1751,2912358
+Saint George,NA,0,Saint George,City,St. Louis,Saint Louis County,153145,NA,NA,NA,NA
+Jonesburg,NA,0,Jonesburg,City,,Montgomery County,149198,37574,29,704,2937574
+Faucett,NA,0,Faucett,City,St. Joseph,Buchanan County,231796,NA,NA,NA,NA
+Sedgewickville,NA,0,Sedgewickville,City,Cape Girardeau,Bollinger County,79883,66476,29,161,2966476
+Rosebud,NA,0,Rosebud,City,,Gasconade County,175835,63110,29,573,2963110
+Cassville,NA,0,Cassville,City,,Barry County,107408,11890,29,3289,2911890
+New Madrid,NA,0,New Madrid,City,,New Madrid County,99598,52076,29,2945,2952076
+Agency,NA,0,Agency,City,St. Joseph,Buchanan County,225244,00298,29,866,2900298
+Foristell,NA,0,Foristell,City,St. Louis,Saint Charles County,298426,25120,29,639,2925120
+Easton,NA,0,Easton,City,St. Joseph,Buchanan County,187765,21034,29,266,2921034
+Aullville,NA,0,Aullville,City,Kansas City,Lafayette County,79962,02530,29,106,2902530
+Houstonia,NA,0,Houstonia,City,Sedalia,Pettis County,69461,33256,29,134,2933256
+Waverly,NA,0,Waverly,City,Kansas City,Lafayette County,94493,77866,29,942,2977866
+Greencastle,NA,0,Greencastle,City,Kirksville,Adair County,80687,29116,29,175,2929116
+Orrick,NA,0,Orrick,City,Kansas City,Ray County,73571,54938,29,689,2954938
+Camden,NA,0,Camden,City,Kansas City,Ray County,45239,10738,29,296,2910738
+Stella,NA,0,Stella,City,Fayetteville-Springdale-Rogers,McDonald County,138969,70648,29,161,2970648
+Middletown,NA,0,Middletown,City,,Montgomery County,195252,47900,29,267,2947900
+Norborne,NA,0,Norborne,City,,Carroll County,79405,52760,29,830,2952760
+Bixby,NA,0,Bixby,City,,Iron County,89493,NA,NA,NA,NA
+Spickard,NA,0,Spickard,City,,Grundy County,89584,69464,29,295,2969464
+Princeton,NA,0,Princeton,City,,Mercer County,49793,59942,29,1083,2959942
+East Lynne,NA,0,East Lynne,City,Kansas City,Cass County,116630,20980,29,220,2920980
+Gunn City,NA,0,Gunn City,City,Kansas City,Cass County,93320,29764,29,122,2929764
+Hardin,NA,0,Hardin,City,Kansas City,Ray County,76676,30322,29,622,2930322
+South Gifford,NA,0,South Gifford,City,,Macon County,42237,68852,29,53,2968852
+Lewistown,NA,0,Lewistown,City,Quincy,Lewis County,122121,41852,29,685,2941852
+Sheldon,NA,0,Sheldon,City,,Vernon County,75084,67214,29,427,2967214
+Frankford,NA,0,Frankford,City,,Pike County,138354,25552,29,404,2925552
+Coney Island,NA,0,Coney Island,City,Branson,Stone County,169731,16115,29,77,2916115
+Morley,NA,0,Morley,City,Sikeston,Scott County,77180,49988,29,726,2949988
+Osceola,NA,0,Osceola,City,,Saint Clair County,66139,55388,29,1025,2955388
+Velda Village,NA,0,Velda Village,City,St. Louis,Saint Louis County,29889,NA,NA,NA,NA
+Morrisville,NA,0,Morrisville,City,Springfield,Polk County,165355,50078,29,419,2950078
+Chilhowee,NA,0,Chilhowee,City,Warrensburg,Johnson County,138552,13654,29,397,2913654
+Reeds,NA,0,Reeds,City,Joplin,Jasper County,136281,61094,29,89,2961094
+Wayland,NA,0,Wayland,City,Fort Madison-Keokuk,Clark County,175011,77920,29,646,2977920
+Golden City,NA,0,Golden City,City,,Barton County,76500,27676,29,671,2927676
+Rock Port,NA,0,Rock Port,City,,Atchison County,101800,62696,29,1452,2962696
+Lowry City,NA,0,Lowry City,City,,Saint Clair County,88892,44282,29,710,2944282
+Laddonia,NA,0,Laddonia,City,Mexico,Audrain County,89469,39602,29,577,2939602
+Weatherby Lake,NA,0,Weatherby Lake,City,Kansas City,Platte County,372454,78046,29,1967,2978046
+Halltown,NA,0,Halltown,City,,Lawrence County,75978,30016,29,165,2930016
+Lucerne,NA,0,Lucerne,City,,Putnam County,63410,44372,29,80,2944372
+Bunceton,NA,0,Bunceton,City,,Cooper County,146141,09658,29,333,2909658
+Freistatt,NA,0,Freistatt,City,,Lawrence County,82964,25912,29,181,2925912
+Atlanta,NA,0,Atlanta,City,,Macon County,101206,02422,29,594,2902422
+Claycomo,NA,0,Claycomo,City,Kansas City,Clay County,144094,14554,29,1419,2914554
+French Village,NA,0,French Village,City,Farmington,Saint Francois County,90465,NA,NA,NA,NA
+Flint Hill,NA,0,Flint Hill,City,St. Louis,Saint Charles County,402853,24688,29,564,2924688
+Ridgely,NA,0,Ridgely,City,Kansas City,Platte County,187879,61886,29,66,2961886
+Edgerton,NA,0,Edgerton,City,Kansas City,Platte County,136926,21250,29,517,2921250
+Bevier,NA,0,Bevier,City,,Macon County,80652,05266,29,696,2905266
+Trimble,NA,0,Trimble,City,Kansas City,Clinton County,226578,73852,29,660,2973852
+Pattonsburg,NA,0,Pattonsburg,City,,Daviess County,147621,56558,29,354,2956558
+Dudley,NA,0,Dudley,City,,Stoddard County,94950,20296,29,218,2920296
+Jamestown,NA,0,Jamestown,City,Jefferson City,Moniteau County,98767,36368,29,462,2936368
+Cardwell,NA,0,Cardwell,City,Kennett,Dunklin County,47017,11350,29,701,2911350
+Cairo,NA,0,Cairo,City,Moberly,Randolph County,140876,10360,29,330,2910360
+Chadwick,NA,0,Chadwick,City,Springfield,Christian County,162261,NA,NA,NA,NA
+Callao,NA,0,Callao,City,,Macon County,103570,10486,29,337,2910486
+Schell City,NA,0,Schell City,City,,Vernon County,124964,66134,29,273,2966134
+Mount Moriah,NA,0,Mount Moriah,City,,Harrison County,73934,50528,29,75,2950528
+Arkoe,NA,0,Arkoe,City,Maryville,Nodaway County,76307,01864,29,44,2901864
+Hale,NA,0,Hale,City,,Carroll County,121535,29908,29,433,2929908
+Green City,NA,0,Green City,City,,Sullivan County,57003,29134,29,550,2929134
+Lilbourn,NA,0,Lilbourn,City,,New Madrid County,57565,42536,29,1165,2942536
+Westphalia,NA,0,Westphalia,City,Jefferson City,Osage County,184848,78910,29,393,2978910
+Wentworth,NA,0,Wentworth,City,Joplin,Newton County,155557,78424,29,111,2978424
+Mokane,NA,0,Mokane,City,Jefferson City,Callaway County,148679,49070,29,186,2949070
+Tightwad,NA,0,Tightwad,City,,Henry County,119052,73240,29,48,2973240
+Hughesville,NA,0,Hughesville,City,Sedalia,Pettis County,111290,33652,29,164,2933652
+Otterville,NA,0,Otterville,City,,Cooper County,140554,55478,29,395,2955478
+Bucklin,NA,0,Bucklin,City,,Linn County,65117,09388,29,383,2909388
+Dearborn,NA,0,Dearborn,City,Kansas City,Platte County,167823,18658,29,461,2918658
+Miner,NA,0,Miner,City,Sikeston,Scott County,108581,48656,29,981,2948656
+Edmundson,NA,0,Edmundson,City,St. Louis,Saint Louis County,72703,21376,29,1067,2921376
+Clark,NA,0,Clark,City,Moberly,Randolph County,67876,14068,29,286,2914068
+Chain-O-Lakes,NA,0,Chain-O-Lakes,City,,Barry County,156620,13015,29,112,2913015
+Butterfield,NA,0,Butterfield,City,,Barry County,89255,10144,29,538,2910144
+Falcon,NA,0,Falcon,City,Lebanon,Laclede County,174610,NA,NA,NA,NA
+Cedarcreek,NA,0,Cedarcreek,City,Branson,Taney County,120032,NA,NA,NA,NA
+Ford City,NA,0,Ford City,City,,Gentry County,40957,NA,NA,NA,NA
+Spokane,NA,0,Spokane,City,Springfield,Christian County,180614,69518,29,91,2969518
+Fremont,NA,0,Fremont,City,,Carter County,113453,25948,29,28,2925948
+De Kalb,NA,0,De Kalb,City,St. Joseph,Buchanan County,135405,18946,29,210,2918946
+Center,NA,0,Center,City,Hannibal,Ralls County,112219,12592,29,477,2912592
+Winchester,NA,0,Winchester,City,St. Louis,Saint Louis County,170125,80314,29,1482,2980314
+Calverton Park,NA,0,Calverton Park,City,St. Louis,Saint Louis County,55834,10612,29,1518,2910612
+Calhoun,NA,0,Calhoun,City,,Henry County,109120,10450,29,349,2910450
+Charlack,NA,0,Charlack,City,St. Louis,Saint Louis County,97882,13330,29,1473,2913330
+Lake Lafayette,NA,0,Lake Lafayette,City,Kansas City,Lafayette County,55861,39952,29,313,2939952
+Walker,NA,0,Walker,City,,Vernon County,109994,76660,29,257,2976660
+Chula,NA,0,Chula,City,,Livingston County,94535,13852,29,218,2913852
+South West City,NA,0,South West City,City,Fayetteville-Springdale-Rogers,McDonald County,84655,NA,NA,NA,NA
+Holland,NA,0,Holland,City,,Pemiscot County,75044,32590,29,177,2932590
+Excello,NA,0,Excello,City,,Macon County,133121,23050,29,11,2923050
+Holcomb,NA,0,Holcomb,City,Kennett,Dunklin County,69677,32536,29,580,2932536
+Brashear,NA,0,Brashear,City,Kirksville,Adair County,112943,08002,29,156,2908002
+Clarence,NA,0,Clarence,City,,Shelby County,76798,13978,29,917,2913978
+Brownington,NA,0,Brownington,City,,Henry County,29259,08902,29,124,2908902
+Wheeling,NA,0,Wheeling,City,,Livingston County,120290,79180,29,304,2979180
+Brighton,NA,0,Brighton,City,Springfield,Polk County,150437,NA,NA,NA,NA
+Golden,NA,0,Golden,City,,Barry County,172076,27658,29,410,2927658
+Kaiser,NA,0,Kaiser,City,,Miller County,158454,NA,NA,NA,NA
+Pottersville,NA,0,Pottersville,City,,Ozark County,165695,NA,NA,NA,NA
+Mercer,NA,0,Mercer,City,,Mercer County,36965,47486,29,335,2947486
+West Line,NA,0,West Line,City,Kansas City,Cass County,143319,78838,29,107,2978838
+Redings Mill,NA,0,Redings Mill,City,Joplin,Newton County,108750,60986,29,148,2960986
+Cliff Village,NA,0,Cliff Village,City,Joplin,Newton County,101426,14806,29,30,2914806
+Fair Play,NA,0,Fair Play,City,Springfield,Polk County,104796,23428,29,471,2923428
+Centerville,NA,0,Centerville,City,,Reynolds County,97030,12718,29,219,2912718
+Grubville,NA,0,Grubville,City,St. Louis,Franklin County,174708,NA,NA,NA,NA
+Blackwater,NA,0,Blackwater,City,,Cooper County,153457,06148,29,198,2906148
+Wellington,NA,0,Wellington,City,Kansas City,Lafayette County,124067,78352,29,787,2978352
+Berger,NA,0,Berger,City,St. Louis,Franklin County,173612,04888,29,205,2904888
+Caledonia,NA,0,Caledonia,City,,Washington County,119850,10432,29,185,2910432
+Nelson,NA,0,Nelson,City,Marshall,Saline County,135679,51500,29,154,2951500
+Chamois,NA,0,Chamois,City,Jefferson City,Osage County,98586,13060,29,438,2913060
+Corder,NA,0,Corder,City,Kansas City,Lafayette County,110062,16408,29,386,2916408
+Iron Mountain Lake,NA,0,Iron Mountain Lake,City,Farmington,Saint Francois County,28484,35450,29,687,2935450
+Ravenwood,NA,0,Ravenwood,City,Maryville,Nodaway County,160438,60716,29,449,2960716
+Martinsburg,NA,0,Martinsburg,City,Mexico,Audrain County,122767,46460,29,306,2946460
+Armstrong,NA,0,Armstrong,City,,Howard County,124438,01954,29,281,2901954
+Portland,NA,0,Portland,City,Jefferson City,Callaway County,139514,NA,NA,NA,NA
+Elk Creek,NA,0,Elk Creek,City,,Texas County,144756,NA,NA,NA,NA
+Paynesville,NA,0,Paynesville,City,,Pike County,73914,56612,29,47,2956612
+Eolia,NA,0,Eolia,City,,Pike County,100486,22474,29,489,2922474
+Bolckow,NA,0,Bolckow,City,St. Joseph,Andrew County,145369,06922,29,159,2906922
+Louisburg,NA,0,Louisburg,City,Springfield,Dallas County,51003,44156,29,68,2944156
+Saint Elizabeth,NA,0,Saint Elizabeth,City,,Miller County,182066,NA,NA,NA,NA
+Marlborough,NA,0,Marlborough,City,St. Louis,Saint Louis County,163916,46208,29,2457,2946208
+Belleview,NA,0,Belleview,City,,Iron County,85806,NA,NA,NA,NA
+Kingdom City,NA,0,Kingdom City,City,Jefferson City,Callaway County,181489,38792,29,170,2938792
+Lake Lotawana,NA,0,Lake Lotawana,City,Kansas City,Jackson County,427228,39980,29,2092,2939980
+Huntleigh,NA,0,Huntleigh,City,St. Louis,Saint Louis County,1502782,33850,29,533,2933850
+Rockville,NA,0,Rockville,City,,Saint Clair County,99039,62786,29,123,2962786
+Vanduser,NA,0,Vanduser,City,Sikeston,Scott County,64360,75724,29,194,2975724
+North Wardell,NA,0,North Wardell,City,,Pemiscot County,46448,NA,NA,NA,NA
+Bragg City,NA,0,Bragg City,City,,Pemiscot County,41764,07876,29,145,2907876
+Haywood City,NA,0,Haywood City,City,Sikeston,Scott County,60956,31204,29,139,2931204
+Wheaton,NA,0,Wheaton,City,,Barry County,127384,79126,29,647,2979126
+Kinloch,NA,0,Kinloch,City,St. Louis,Saint Louis County,32896,38972,29,276,2938972
+Camden Point,NA,0,Camden Point,City,Kansas City,Platte County,195839,10792,29,512,2910792
+Cainsville,NA,0,Cainsville,City,,Harrison County,59344,10342,29,219,2910342
+Velda Village Hills,NA,0,Velda Village Hills,City,St. Louis,Saint Louis County,26073,75814,29,918,2975814
+Stoutsville,NA,0,Stoutsville,City,,Monroe County,125116,71026,29,24,2971026
+Kingston,NA,0,Kingston,City,Kansas City,Caldwell County,172294,38846,29,285,2938846
+Mora,NA,0,Mora,City,Sedalia,Pettis County,100710,NA,NA,NA,NA
+Gasconade,NA,0,Gasconade,City,,Gasconade County,31421,26578,29,329,2926578
+Sundown,NA,0,Sundown,City,,Ozark County,183571,71628,29,34,2971628
+Garden City,NA,0,Garden City,City,Kansas City,Cass County,130797,26434,29,1494,2926434
+Vandiver Village,NA,0,Vandiver Village,City,Mexico,Audrain County,96578,NA,NA,NA,NA
+Clarksburg,NA,0,Clarksburg,City,Jefferson City,Moniteau County,126828,14140,29,218,2914140
+Vichy,NA,0,Vichy,City,,Maries County,161401,NA,NA,NA,NA
+Bell City,NA,0,Bell City,City,,Stoddard County,74709,04132,29,528,2904132
+Platte Woods,NA,0,Platte Woods,City,Kansas City,Platte County,255303,58196,29,414,2958196
+Tarrants,NA,0,Tarrants,City,,Pike County,81510,NA,NA,NA,NA
+Shell Knob,NA,0,Shell Knob,City,Branson,Stone County,181433,67232,29,1246,2967232
+New Cambria,NA,0,New Cambria,City,,Macon County,99969,51734,29,140,2951734
+Huntsdale,NA,0,Huntsdale,City,Columbia,Boone County,120145,33868,29,8,2933868
+Doe Run,NA,0,Doe Run,City,Farmington,Saint Francois County,90690,19684,29,810,2919684
+La Belle,NA,0,La Belle,City,Quincy,Lewis County,56661,39512,29,688,2939512
+Merriam Woods Village,NA,0,Merriam Woods Village,City,Branson,Taney County,92982,NA,NA,NA,NA
+Gatewood,NA,0,Gatewood,City,,Ripley County,131397,NA,NA,NA,NA
+Oldfield,NA,0,Oldfield,City,Springfield,Christian County,158838,NA,NA,NA,NA
+Kissee Mills,NA,0,Kissee Mills,City,Branson,Taney County,124531,39080,29,1002,2939080
+Cook Station,NA,0,Cook Station,City,,Crawford County,159613,NA,NA,NA,NA
+Mayview,NA,0,Mayview,City,Kansas City,Lafayette County,185859,46964,29,269,2946964
+Bradleyville,NA,0,Bradleyville,City,Branson,Taney County,122269,NA,NA,NA,NA
+Cosby,NA,0,Cosby,City,St. Joseph,Andrew County,189753,16588,29,189,2916588
+Meadville,NA,0,Meadville,City,,Linn County,93895,47036,29,466,2947036
+Concordia,NA,0,Concordia,City,Kansas City,Lafayette County,116277,16102,29,2697,2916102
+Norwood Court,NA,0,Norwood Court,City,St. Louis,Saint Louis County,73661,53462,29,985,2953462
+Burlington Junction,NA,0,Burlington Junction,City,Maryville,Nodaway County,83627,09838,29,550,2909838
+Protem,NA,0,Protem,City,Branson,Taney County,140406,NA,NA,NA,NA
+Arbyrd,NA,0,Arbyrd,City,Kennett,Dunklin County,47034,01630,29,434,2901630
+Ridgedale,NA,0,Ridgedale,City,Branson,Taney County,234420,NA,NA,NA,NA
+Clarkton,NA,0,Clarkton,City,Kennett,Dunklin County,51171,14212,29,1213,2914212
+Kidder,NA,0,Kidder,City,Kansas City,Caldwell County,176704,38522,29,213,2938522
+Fortuna,NA,0,Fortuna,City,Jefferson City,Moniteau County,144630,NA,NA,NA,NA
+Thompson,NA,0,Thompson,City,Mexico,Audrain County,180774,NA,NA,NA,NA
+Jamesport,NA,0,Jamesport,City,,Daviess County,58272,36332,29,548,2936332
+Altenburg,NA,0,Altenburg,City,Cape Girardeau,Cape Girardeau County,163522,00928,29,372,2900928
+Bosworth,NA,0,Bosworth,City,,Carroll County,96294,07426,29,166,2907426
+Wheatland,NA,0,Wheatland,City,,Hickory County,51570,79090,29,293,2979090
+Mooresville,NA,0,Mooresville,City,,Livingston County,75343,49790,29,154,2949790
+Rosendale,NA,0,Rosendale,City,St. Joseph,Andrew County,156834,63200,29,138,2963200
+Utica,NA,0,Utica,City,,Livingston County,72918,75364,29,157,2975364
+Hornersville,NA,0,Hornersville,City,Kennett,Dunklin County,45006,33076,29,597,2933076
+Napoleon,NA,0,Napoleon,City,Kansas City,Lafayette County,202645,51140,29,213,2951140
+Morrison,NA,0,Morrison,City,,Gasconade County,80744,50060,29,89,2950060
+Airport Drive,NA,0,Airport Drive,City,Joplin,Jasper County,160935,00424,29,889,2900424
+Tindall,NA,0,Tindall,City,,Grundy County,45016,73348,29,82,2973348
+Parnell,NA,0,Parnell,City,Maryville,Nodaway County,128782,56360,29,183,2956360
+Newtown,NA,0,Newtown,City,,Putnam County,55397,52328,29,190,2952328
+Hopkins,NA,0,Hopkins,City,Maryville,Nodaway County,102229,33004,29,362,2933004
+Peace Valley,NA,0,Peace Valley,City,West Plains,Howell County,126374,NA,NA,NA,NA
+Lakeshire,NA,0,Lakeshire,City,St. Louis,Saint Louis County,229569,40088,29,1658,2940088
+Goss,NA,0,Goss,City,,Monroe County,136379,NA,NA,NA,NA
+Brimson,NA,0,Brimson,City,,Grundy County,41746,08470,29,44,2908470
+Maywood,NA,0,Maywood,City,Hannibal,Marion County,154922,NA,NA,NA,NA
+Dawn,NA,0,Dawn,City,,Livingston County,135566,18496,29,176,2918496
+Valles Mines,NA,0,Valles Mines,City,Farmington,Saint Francois County,169929,NA,NA,NA,NA
+Conception Junction,NA,0,Conception Junction,City,Maryville,Nodaway County,173641,15922,29,181,2915922
+Powersite,NA,0,Powersite,City,Branson,Taney County,133494,NA,NA,NA,NA
+Innsbrook,NA,0,Innsbrook,City,St. Louis,Warren County,315744,35240,29,700,2935240
+Osborn,NA,0,Osborn,City,St. Joseph,DeKalb County,128144,55352,29,434,2955352
+Lock Springs,NA,0,Lock Springs,City,,Daviess County,58712,43472,29,37,2943472
+Asbury,NA,0,Asbury,City,Joplin,Jasper County,154197,02098,29,246,2902098
+Curryville,NA,0,Curryville,City,,Pike County,184375,17902,29,188,2917902
+Cooter,NA,0,Cooter,City,,Pemiscot County,80325,16336,29,406,2916336
+Dadeville,NA,0,Dadeville,City,,Dade County,63638,17992,29,238,2917992
+Jerome,NA,0,Jerome,City,Rolla,Phelps County,74088,NA,NA,NA,NA
+Lake Tapawingo,NA,0,Lake Tapawingo,City,Kansas City,Jackson County,266547,40196,29,809,2940196
+Browning,NA,0,Browning,City,,Linn County,61362,08884,29,202,2908884
+Prairie Home,NA,0,Prairie Home,City,,Cooper County,134043,59726,29,264,2959726
+Guilford,NA,0,Guilford,City,Maryville,Nodaway County,162430,29692,29,56,2929692
+Barnard,NA,0,Barnard,City,Maryville,Nodaway County,185672,03340,29,234,2903340
+La Tour,NA,0,La Tour,City,Warrensburg,Johnson County,82294,40880,29,139,2940880
+Howardville,NA,0,Howardville,City,,New Madrid County,39566,33364,29,279,2933364
+Turney,NA,0,Turney,City,Kansas City,Clinton County,201980,74176,29,216,2974176
+La Russell,NA,0,La Russell,City,,Lawrence County,149845,40790,29,121,2940790
+Dora,NA,0,Dora,City,,Ozark County,171833,NA,NA,NA,NA
+Rives,NA,0,Rives,City,Kennett,Dunklin County,45481,62228,29,53,2962228
+Lawson,NA,0,Lawson,City,Kansas City,Ray County,126650,40988,29,2363,2940988
+Williamsburg,NA,0,Williamsburg,City,Jefferson City,Callaway County,113111,NA,NA,NA,NA
+Ferrelview,NA,0,Ferrelview,City,Kansas City,Platte County,144939,24058,29,538,2924058
+Black,NA,0,Black,City,,Reynolds County,121115,NA,NA,NA,NA
+Holliday,NA,0,Holliday,City,,Monroe County,153235,32626,29,102,2932626
+Tunas,NA,0,Tunas,City,Springfield,Dallas County,138425,NA,NA,NA,NA
+Bakersfield,NA,0,Bakersfield,City,,Ozark County,109014,03052,29,244,2903052
+Skidmore,NA,0,Skidmore,City,Maryville,Nodaway County,34438,68132,29,221,2968132
+Dunnegan,NA,0,Dunnegan,City,Springfield,Polk County,172987,NA,NA,NA,NA
+Sycamore Hills,NA,0,Sycamore Hills,City,St. Louis,Saint Louis County,106230,72034,29,673,2972034
+Quitman,NA,0,Quitman,City,Maryville,Nodaway County,43556,60410,29,16,2960410
+Laclede,NA,0,Laclede,City,,Linn County,80796,39566,29,362,2939566
+Bella Villa,NA,0,Bella Villa,City,St. Louis,Saint Louis County,128066,04114,29,841,2904114
+Wyatt,NA,0,Wyatt,City,,Mississippi County,83765,81178,29,305,2981178
+Jerico Springs,NA,0,Jerico Springs,City,,Cedar County,116601,37214,29,224,2937214
+Long Lane,NA,0,Long Lane,City,Springfield,Dallas County,143329,NA,NA,NA,NA
+Ludlow,NA,0,Ludlow,City,,Livingston County,44610,44390,29,122,2944390
+Ionia,NA,0,Ionia,City,,Benton County,79202,35306,29,90,2935306
+Stotts City,NA,0,Stotts City,City,,Lawrence County,146840,70990,29,129,2970990
+Farber,NA,0,Farber,City,Mexico,Audrain County,49522,23662,29,322,2923662
+Lake Ozark,NA,0,Lake Ozark,City,,Camden County,281501,40034,29,1759,2940034
+Taylor,NA,0,Taylor,City,Hannibal,Marion County,178456,NA,NA,NA,NA
+Philadelphia,NA,0,Philadelphia,City,Hannibal,Marion County,154470,NA,NA,NA,NA
+Cross Timbers,NA,0,Cross Timbers,City,,Hickory County,88926,17524,29,185,2917524
+Breckenridge,NA,0,Breckenridge,City,Kansas City,Caldwell County,78383,08128,29,299,2908128
+Alma,NA,0,Alma,City,Kansas City,Lafayette County,126329,00802,29,420,2900802
+Wooldridge,NA,0,Wooldridge,City,,Cooper County,169511,81016,29,21,2981016
+Cherryville,NA,0,Cherryville,City,,Crawford County,123347,NA,NA,NA,NA
+Linneus,NA,0,Linneus,City,,Linn County,88304,43292,29,282,2943292
+Clarksdale,NA,0,Clarksdale,City,St. Joseph,DeKalb County,164963,14158,29,283,2914158
+El Dorado Springs,NA,0,El Dorado Springs,City,,Cedar County,56546,21502,29,3545,2921502
+Hayti Heights,NA,0,Hayti Heights,City,,Pemiscot County,44444,31168,29,612,2931168
+Gibson,NA,0,Gibson,City,Kennett,Dunklin County,75032,NA,NA,NA,NA
+Wasola,NA,0,Wasola,City,,Ozark County,142516,77794,29,140,2977794
+Gray Summit,NA,0,Gray Summit,City,St. Louis,Franklin County,149404,28918,29,2594,2928918
+Williamstown,NA,0,Williamstown,City,Fort Madison-Keokuk,Clark County,95888,NA,NA,NA,NA
+Cowgill,NA,0,Cowgill,City,Kansas City,Caldwell County,172971,16984,29,206,2916984
+Ewing,NA,0,Ewing,City,Quincy,Lewis County,121805,23032,29,383,2923032
+Lake Waukomis,NA,0,Lake Waukomis,City,Kansas City,Platte County,337283,40322,29,846,2940322
+Boss,NA,0,Boss,City,,Reynolds County,124080,NA,NA,NA,NA
+Catron,NA,0,Catron,City,,New Madrid County,85458,12052,29,37,2912052
+Durham,NA,0,Durham,City,Quincy,Lewis County,136929,NA,NA,NA,NA
+Keytesville,NA,0,Keytesville,City,,Chariton County,123371,38468,29,390,2938468
+Hunnewell,NA,0,Hunnewell,City,,Shelby County,117332,33760,29,158,2933760
+Moundville,NA,0,Moundville,City,,Vernon County,138019,50330,29,143,2950330
+Lesterville,NA,0,Lesterville,City,,Reynolds County,130271,NA,NA,NA,NA
+Helena,NA,0,Helena,City,St. Joseph,Andrew County,166818,NA,NA,NA,NA
+Rockaway Beach,NA,0,Rockaway Beach,City,Branson,Taney County,100209,62570,29,891,2962570
+Leawood,NA,0,Leawood,City,Joplin,Newton County,212373,41132,29,584,2941132
+Eagleville,NA,0,Eagleville,City,,Harrison County,93528,20674,29,265,2920674
+Henrietta,NA,0,Henrietta,City,Kansas City,Ray County,37491,31654,29,353,2931654
+Milo,NA,0,Milo,City,,Vernon County,120421,48476,29,79,2948476
+Polk,NA,0,Polk,City,,Hickory County,101339,NA,NA,NA,NA
+Anabel,NA,0,Anabel,City,,Macon County,157479,NA,NA,NA,NA
+Latham,NA,0,Latham,City,Jefferson City,Moniteau County,219127,NA,NA,NA,NA
+Olean,NA,0,Olean,City,,Miller County,132809,54560,29,55,2954560
+Amsterdam,NA,0,Amsterdam,City,Kansas City,Bates County,119210,01090,29,220,2901090
+Bethel,NA,0,Bethel,City,,Shelby County,103741,05104,29,98,2905104
+Truesdale,NA,0,Truesdale,City,St. Louis,Warren County,173394,73978,29,781,2973978
+Drury,NA,0,Drury,City,,Ozark County,113834,NA,NA,NA,NA
+Fillmore,NA,0,Fillmore,City,St. Joseph,Andrew County,99617,24184,29,170,2924184
+Sheridan,NA,0,Sheridan,City,,Worth County,187199,67358,29,200,2967358
+Weatherby,NA,0,Weatherby,City,St. Joseph,DeKalb County,178754,78028,29,75,2978028
+Thornfield,NA,0,Thornfield,City,,Ozark County,145703,NA,NA,NA,NA
+Union Star,NA,0,Union Star,City,St. Joseph,DeKalb County,119231,75130,29,377,2975130
+New Hampton,NA,0,New Hampton,City,,Harrison County,70002,51860,29,297,2951860
+Birmingham,NA,0,Birmingham,City,Kansas City,Clay County,122000,05824,29,204,2905824
+Tecumseh,NA,0,Tecumseh,City,,Ozark County,151779,NA,NA,NA,NA
+West Alton,NA,0,West Alton,City,St. Louis,Saint Charles County,133608,78514,29,378,2978514
+Blythedale,NA,0,Blythedale,City,,Harrison County,66543,06742,29,180,2906742
+Uplands Park,NA,0,Uplands Park,City,St. Louis,Saint Louis County,31491,75238,29,357,2975238
+Syracuse,NA,0,Syracuse,City,,Morgan County,170352,72106,29,144,2972106
+Argyle,NA,0,Argyle,City,Jefferson City,Osage County,149714,01828,29,193,2901828
+Clearmont,NA,0,Clearmont,City,Maryville,Nodaway County,105812,14662,29,169,2914662
+Portage des Sioux,NA,0,Portage des Sioux,City,St. Louis,Saint Charles County,155234,NA,NA,NA,NA
+Weaubleau,NA,0,Weaubleau,City,,Hickory County,61939,78064,29,587,2978064
+Rea,NA,0,Rea,City,St. Joseph,Andrew County,159221,60842,29,38,2960842
+Mindenmines,NA,0,Mindenmines,City,,Barton County,58787,48566,29,301,2948566
+Ashburn,NA,0,Ashburn,City,,Pike County,31974,NA,NA,NA,NA
+Leonard,NA,0,Leonard,City,,Knox County,150535,41546,29,64,2941546
+Jameson,NA,0,Jameson,City,,Daviess County,117505,36314,29,65,2936314
+Patton,NA,0,Patton,City,Cape Girardeau,Bollinger County,105756,NA,NA,NA,NA
+Gideon,NA,0,Gideon,City,,New Madrid County,53962,26974,29,1202,2926974
+Blairstown,NA,0,Blairstown,City,,Henry County,143021,06238,29,122,2906238
+Franklin,NA,0,Franklin,City,,Howard County,191373,25624,29,58,2925624
+Hartshorn,NA,0,Hartshorn,City,,Shannon County,124232,NA,NA,NA,NA
+Leadwood,NA,0,Leadwood,City,Farmington,Saint Francois County,33718,41078,29,1382,2941078
+Pascola,NA,0,Pascola,City,,Pemiscot County,49787,56432,29,105,2956432
+Bruner,NA,0,Bruner,City,Springfield,Christian County,194536,NA,NA,NA,NA
+Westwood,NA,0,Westwood,City,St. Louis,Saint Louis County,788927,79054,29,337,2979054
+Gibbs,NA,0,Gibbs,City,Kirksville,Adair County,139226,26920,29,107,2926920
+Purdin,NA,0,Purdin,City,,Linn County,68024,60158,29,128,2960158
+Macomb,NA,0,Macomb,City,,Wright County,134477,NA,NA,NA,NA
+Bronaugh,NA,0,Bronaugh,City,,Vernon County,82852,08614,29,207,2908614
+Martinsville,NA,0,Martinsville,City,,Harrison County,149154,NA,NA,NA,NA
+Loma Linda,NA,0,Loma Linda,City,Joplin,Newton County,252253,43672,29,754,2943672
+Saint Thomas,NA,0,Saint Thomas,City,Jefferson City,Cole County,190637,NA,NA,NA,NA
+Oakwood,NA,0,Oakwood,City,Kansas City,Clay County,341706,53894,29,176,2953894
+Pierce City,NA,0,Pierce City,City,,Lawrence County,86831,57494,29,1313,2957494
+Santa Fe,NA,0,Santa Fe,City,,Monroe County,105884,NA,NA,NA,NA
+Burfordville,NA,0,Burfordville,City,Cape Girardeau,Cape Girardeau County,163848,NA,NA,NA,NA
+Elmo,NA,0,Elmo,City,Maryville,Nodaway County,70172,22024,29,159,2922024
+Jacksonville,NA,0,Jacksonville,City,Moberly,Randolph County,134109,36224,29,122,2936224
+Truxton,NA,0,Truxton,City,St. Louis,Lincoln County,153215,74014,29,163,2974014
+Laredo,NA,0,Laredo,City,,Grundy County,104179,40736,29,212,2940736
+Moody,NA,0,Moody,City,West Plains,Howell County,115575,NA,NA,NA,NA
+Rocky Comfort,NA,0,Rocky Comfort,City,Fayetteville-Springdale-Rogers,McDonald County,112007,NA,NA,NA,NA
+Village of Oakview,NA,0,Village of Oakview,City,Kansas City,Clay County,150273,NA,NA,NA,NA
+Beulah,NA,0,Beulah,City,Rolla,Phelps County,136002,NA,NA,NA,NA
+Viburnum,NA,0,Viburnum,City,,Iron County,69429,76012,29,734,2976012
+Village of Loch Lloyd,NA,0,Village of Loch Lloyd,City,Kansas City,Cass County,844766,NA,NA,NA,NA
+Blackburn,NA,0,Blackburn,City,Marshall,Saline County,187410,05950,29,309,2905950
+Creighton,NA,0,Creighton,City,Kansas City,Cass County,135668,17164,29,329,2917164
+Indian Point,NA,0,Indian Point,City,Branson,Stone County,207568,35186,29,477,2935186
+Patterson,NA,0,Patterson,City,,Wayne County,97423,NA,NA,NA,NA
+Ulman,NA,0,Ulman,City,,Miller County,125788,NA,NA,NA,NA
+Bogard,NA,0,Bogard,City,,Carroll County,99421,06832,29,133,2906832
+Squires,NA,0,Squires,City,,Ozark County,147776,NA,NA,NA,NA
+Winston,NA,0,Winston,City,,Daviess County,120809,80548,29,244,2980548
+Couch,NA,0,Couch,City,,Oregon County,122705,NA,NA,NA,NA
+Amity,NA,0,Amity,City,St. Joseph,DeKalb County,184611,01054,29,21,2901054
+South Greenfield,NA,0,South Greenfield,City,,Dade County,38757,68888,29,124,2968888
+Richwoods,NA,0,Richwoods,City,,Washington County,143344,NA,NA,NA,NA
+Graham,NA,0,Graham,City,Maryville,Nodaway County,136580,28072,29,155,2928072
+Blackwell,NA,0,Blackwell,City,Farmington,Saint Francois County,160261,NA,NA,NA,NA
+Wilbur Park,NA,0,Wilbur Park,City,St. Louis,Saint Louis County,154487,79756,29,554,2979756
+Florence,NA,0,Florence,City,,Morgan County,181226,NA,NA,NA,NA
+Elmer,NA,0,Elmer,City,,Macon County,77265,21988,29,73,2921988
+Huggins,NA,0,Huggins,City,,Texas County,187031,NA,NA,NA,NA
+Middlebrook,NA,0,Middlebrook,City,,Reynolds County,97407,NA,NA,NA,NA
+McFall,NA,0,McFall,City,,Gentry County,100375,45020,29,95,2945020
+Powersville,NA,0,Powersville,City,,Putnam County,76401,59420,29,39,2959420
+Saint Martins,NA,0,Saint Martins,City,Jefferson City,Cole County,167274,NA,NA,NA,NA
+Lake Winnebago,NA,0,Lake Winnebago,City,Kansas City,Cass County,474153,40340,29,1114,2940340
+Pasadena Park,NA,0,Pasadena Park,City,St. Louis,Saint Louis County,102193,56414,29,480,2956414
+Myrtle,NA,0,Myrtle,City,,Oregon County,117856,NA,NA,NA,NA
+Ethel,NA,0,Ethel,City,,Macon County,95101,22672,29,51,2922672
+Graff,NA,0,Graff,City,,Wright County,201062,NA,NA,NA,NA
+Silver Creek,NA,0,Silver Creek,City,Joplin,Newton County,176852,NA,NA,NA,NA
+Ironton,NA,0,Ironton,City,,Iron County,72448,35468,29,1674,2935468
+Saginaw,NA,0,Saginaw,City,Joplin,Newton County,132404,63902,29,410,2963902
+Avondale,NA,0,Avondale,City,Kansas City,Clay County,119631,02800,29,502,2902800
+Amoret,NA,0,Amoret,City,Kansas City,Bates County,110871,01072,29,178,2901072
+Oran,NA,0,Oran,City,Sikeston,Scott County,105221,54758,29,1532,2954758
+Monticello,NA,0,Monticello,City,Quincy,Lewis County,114276,49592,29,132,2949592
+Brinktown,NA,0,Brinktown,City,,Maries County,148406,NA,NA,NA,NA
+Duke,NA,0,Duke,City,Fort Leonard Wood,Pulaski County,130418,NA,NA,NA,NA
+Benton City,NA,0,Benton City,City,Mexico,Audrain County,88713,04834,29,188,2904834
+Garrison,NA,0,Garrison,City,Springfield,Christian County,174033,NA,NA,NA,NA
+Mendon,NA,0,Mendon,City,,Chariton County,91226,47288,29,223,2947288
+Redford,NA,0,Redford,City,,Reynolds County,140456,NA,NA,NA,NA
+Fair Grove,NA,0,Fair Grove,City,Springfield,Greene County,144307,23338,29,1624,2923338
+New Boston,NA,0,New Boston,City,,Linn County,112887,NA,NA,NA,NA
+Glenaire,NA,0,Glenaire,City,Kansas City,Clay County,173412,27262,29,496,2927262
+Branson West,NA,0,Branson West,City,Branson,Stone County,155116,07989,29,569,2907989
+Greenfield,NA,0,Greenfield,City,,Dade County,56318,29206,29,1503,2929206
+Leadington,NA,0,Leadington,City,Farmington,Saint Francois County,61937,41024,29,601,2941024
+Steedman,NA,0,Steedman,City,Jefferson City,Callaway County,92881,NA,NA,NA,NA
+Wardsville,NA,0,Wardsville,City,Jefferson City,Cole County,225751,77002,29,1731,2977002
+Deerfield,NA,0,Deerfield,City,,Vernon County,108643,18802,29,42,2918802
+Livonia,NA,0,Livonia,City,,Putnam County,100688,43454,29,95,2943454
+Altamont,NA,0,Altamont,City,,Daviess County,125602,00910,29,173,2900910
+Jadwin,NA,0,Jadwin,City,,Dent County,151864,NA,NA,NA,NA
+Brixey,NA,0,Brixey,City,,Ozark County,147921,NA,NA,NA,NA
+Carytown,NA,0,Carytown,City,Joplin,Jasper County,173612,11728,29,257,2911728
+Annada,NA,0,Annada,City,,Pike County,46112,01252,29,37,2901252
+De Witt,NA,0,De Witt,City,,Carroll County,108607,19378,29,108,2919378
+Scotsdale,NA,0,Scotsdale,City,St. Louis,Jefferson County,167893,66337,29,168,2966337
+Oak Grove Village,NA,0,Oak Grove Village,City,St. Louis,Franklin County,120796,53650,29,464,2953650
+Zalma,NA,0,Zalma,City,Cape Girardeau,Bollinger County,116432,81430,29,82,2981430
+La Plata,NA,0,La Plata,City,,Macon County,72034,40682,29,1362,2940682
+Crane,NA,0,Crane,City,Branson,Stone County,75191,17074,29,1453,2917074
+Pickering,NA,0,Pickering,City,Maryville,Nodaway County,103735,57404,29,119,2957404
+Lynchburg,NA,0,Lynchburg,City,Lebanon,Laclede County,183773,NA,NA,NA,NA
+Emden,NA,0,Emden,City,,Shelby County,139116,NA,NA,NA,NA
+Success,NA,0,Success,City,,Texas County,143264,NA,NA,NA,NA
+Marble Hill,NA,0,Marble Hill,City,Cape Girardeau,Bollinger County,74392,45848,29,1727,2945848
+Preston,NA,0,Preston,City,,Hickory County,103144,59870,29,330,2959870
+Rush Hill,NA,0,Rush Hill,City,Mexico,Audrain County,92248,63560,29,175,2963560
+Wood Heights,NA,0,Wood Heights,City,Kansas City,Ray County,136734,80767,29,646,2980767
+Clifton Hill,NA,0,Clifton Hill,City,Moberly,Randolph County,92188,14896,29,85,2914896
+Evergreen,NA,0,Evergreen,City,Lebanon,Laclede County,254510,22951,29,16,2922951
+Doolittle,NA,0,Doolittle,City,Rolla,Phelps County,102789,19828,29,745,2919828
+Fremont Hills,NA,0,Fremont Hills,City,Springfield,Christian County,389629,25957,29,1130,2925957
+Isabella,NA,0,Isabella,City,,Ozark County,149743,NA,NA,NA,NA
+Arcola,NA,0,Arcola,City,,Dade County,117560,01720,29,80,2901720
+Lamar Heights,NA,0,Lamar Heights,City,,Barton County,136613,40430,29,198,2940430
+Bourbon,NA,0,Bourbon,City,,Crawford County,93980,07534,29,1946,2907534
+Oaks,NA,0,Oaks,City,Kansas City,Clay County,212231,53804,29,141,2953804
+Shoal Creek Drive,NA,0,Shoal Creek Drive,City,Joplin,Newton County,105863,67628,29,463,2967628
+Coffey,NA,0,Coffey,City,,Daviess County,96005,15274,29,188,2915274
+Gobler,NA,0,Gobler,City,Kennett,Dunklin County,85235,NA,NA,NA,NA
+Harris,NA,0,Harris,City,,Sullivan County,51904,30466,29,18,2930466
+Eunice,NA,0,Eunice,City,,Texas County,140210,NA,NA,NA,NA
+Marston,NA,0,Marston,City,,New Madrid County,54178,46406,29,328,2946406
+King City,NA,0,King City,City,,Gentry County,67426,38774,29,962,2938774
+Westboro,NA,0,Westboro,City,,Atchison County,80057,78622,29,121,2978622
+River Bend,NA,0,River Bend,City,Kansas City,Jackson County,158363,62056,29,7,2962056
+Lentner,NA,0,Lentner,City,,Shelby County,166142,NA,NA,NA,NA
+Bellerive,NA,0,Bellerive,City,St. Louis,Saint Louis County,262790,NA,NA,NA,NA
+Rueter,NA,0,Rueter,City,Branson,Taney County,155933,NA,NA,NA,NA
+Parkway,NA,0,Parkway,City,St. Louis,Franklin County,145392,56306,29,561,2956306
+Tracy,NA,0,Tracy,City,Kansas City,Platte County,172279,73690,29,282,2973690
+Devils Elbow,NA,0,Devils Elbow,City,Fort Leonard Wood,Pulaski County,134825,NA,NA,NA,NA
+Vinita Terrace,NA,0,Vinita Terrace,City,St. Louis,Saint Louis County,76376,NA,NA,NA,NA
+Oakwood Park,NA,0,Oakwood Park,City,Kansas City,Clay County,167291,53948,29,284,2953948
+Grassy,NA,0,Grassy,City,Cape Girardeau,Bollinger County,130797,NA,NA,NA,NA
+Prathersville,NA,0,Prathersville,City,Kansas City,Clay County,166825,59816,29,142,2959816
+Advance,NA,0,Advance,City,,Stoddard County,83103,00262,29,1246,2900262
+Mackenzie,NA,0,Mackenzie,City,St. Louis,Saint Louis County,153088,45110,29,174,2945110
+Solo,NA,0,Solo,City,,Texas County,158845,NA,NA,NA,NA
+Northmoor,NA,0,Northmoor,City,Kansas City,Platte County,140629,53174,29,481,2953174
+Powell,NA,0,Powell,City,Fayetteville-Springdale-Rogers,McDonald County,102300,NA,NA,NA,NA
+Yukon,NA,0,Yukon,City,,Texas County,135089,NA,NA,NA,NA
+Anderson,NA,0,Anderson,City,Fayetteville-Springdale-Rogers,McDonald County,78342,01198,29,2254,2901198
+Tina,NA,0,Tina,City,,Carroll County,87540,73330,29,293,2973330
+Winigan,NA,0,Winigan,City,,Sullivan County,47424,80440,29,52,2980440
+Gipsy,NA,0,Gipsy,City,Cape Girardeau,Bollinger County,131460,NA,NA,NA,NA
+Reeds Spring,NA,0,Reeds Spring,City,Branson,Stone County,135567,61112,29,987,2961112
+Watson,NA,0,Watson,City,,Atchison County,61883,77848,29,38,2977848
+Olympian Village,NA,0,Olympian Village,City,St. Louis,Jefferson County,130495,54686,29,606,2954686
+Bismarck,NA,0,Bismarck,City,Farmington,Saint Francois County,58654,05878,29,1395,2905878
+Pollock,NA,0,Pollock,City,,Sullivan County,59784,58898,29,40,2958898
+Windyville,NA,0,Windyville,City,Springfield,Dallas County,135590,NA,NA,NA,NA
+Risco,NA,0,Risco,City,,New Madrid County,58193,61994,29,370,2961994
+Harwood,NA,0,Harwood,City,,Vernon County,46329,30862,29,87,2930862
+Uniontown,NA,0,Uniontown,City,,Perry County,173370,NA,NA,NA,NA
+Pontiac,NA,0,Pontiac,City,,Ozark County,173981,59060,29,229,2959060
+Stanberry,NA,0,Stanberry,City,,Gentry County,67206,70270,29,1222,2970270
+Clarksville,NA,0,Clarksville,City,,Pike County,67566,14194,29,444,2914194
+Darlington,NA,0,Darlington,City,,Gentry County,70477,18316,29,64,2918316
+Benton,NA,0,Benton,City,Sikeston,Scott County,122190,04798,29,913,2904798
+Saint Cloud,NA,0,Saint Cloud,City,,Crawford County,149605,NA,NA,NA,NA
+Dover,NA,0,Dover,City,Kansas City,Lafayette County,86805,19918,29,81,2919918
+Noble,NA,0,Noble,City,,Ozark County,136896,NA,NA,NA,NA
+Sibley,NA,0,Sibley,City,Kansas City,Jackson County,138770,67718,29,356,2967718
+Roby,NA,0,Roby,City,,Texas County,147800,NA,NA,NA,NA
+Lanagan,NA,0,Lanagan,City,Fayetteville-Springdale-Rogers,McDonald County,61282,40592,29,411,2940592
+Pilot Knob,NA,0,Pilot Knob,City,,Iron County,62794,57656,29,684,2957656
+Sturdivant,NA,0,Sturdivant,City,Cape Girardeau,Bollinger County,122418,NA,NA,NA,NA
+Millard,NA,0,Millard,City,Kirksville,Adair County,88936,48134,29,71,2948134
+Ritchey,NA,0,Ritchey,City,Joplin,Newton County,64371,62030,29,55,2962030
+Glenallen,NA,0,Glenallen,City,Cape Girardeau,Bollinger County,65663,NA,NA,NA,NA
+Randolph,NA,0,Randolph,City,Kansas City,Clay County,108703,60590,29,21,2960590
+McCord Bend,NA,0,McCord Bend,City,Branson,Stone County,66004,44829,29,391,2944829
+Hoberg,NA,0,Hoberg,City,,Lawrence County,53512,32410,29,49,2932410
+Greentop,NA,0,Greentop,City,Kirksville,Schuyler County,110007,29422,29,583,2929422
+Stark City,NA,0,Stark City,City,Joplin,Newton County,68758,70414,29,137,2970414
+Shoal Creek Estates,NA,0,Shoal Creek Estates,City,Joplin,Newton County,190102,67632,29,91,2967632
+Saddlebrooke,NA,0,Saddlebrooke,City,Springfield,Christian County,449247,63857,29,277,2963857
+Emma,NA,0,Emma,City,Kansas City,Lafayette County,114932,22312,29,232,2922312
+Gilman City,NA,0,Gilman City,City,,Harrison County,76746,27064,29,413,2927064
+Roscoe,NA,0,Roscoe,City,,Saint Clair County,45899,63074,29,103,2963074
+Udall,NA,0,Udall,City,,Ozark County,128464,NA,NA,NA,NA
+Missouri City,NA,0,Missouri City,City,Kansas City,Clay County,111287,48980,29,543,2948980
+Houston Lake,NA,0,Houston Lake,City,Kansas City,Platte County,160175,33292,29,379,2933292
+Newtonia,NA,0,Newtonia,City,Joplin,Newton County,69212,52292,29,192,2952292
+Rensselaer,NA,0,Rensselaer,City,Hannibal,Ralls County,175871,61184,29,241,2961184
+Fleming,NA,0,Fleming,City,Kansas City,Ray County,68082,24562,29,85,2924562
+Ginger Blue,NA,0,Ginger Blue,City,Fayetteville-Springdale-Rogers,McDonald County,76883,27100,29,33,2927100
+Urich,NA,0,Urich,City,,Henry County,48458,75346,29,629,2975346
+Longtown,NA,0,Longtown,City,,Perry County,100513,43940,29,123,2943940
+Pocahontas,NA,0,Pocahontas,City,Cape Girardeau,Cape Girardeau County,124503,58628,29,56,2958628
+Ponce de Leon,NA,0,Ponce de Leon,City,Springfield,Christian County,196552,NA,NA,NA,NA
+Galena,NA,0,Galena,City,Branson,Stone County,79345,26254,29,641,2926254
+Kimmswick,NA,0,Kimmswick,City,St. Louis,Jefferson County,115520,38684,29,136,2938684
+Country Life Acres,NA,0,Country Life Acres,City,St. Louis,Saint Louis County,1351536,16876,29,84,2916876
+Ridgeway,NA,0,Ridgeway,City,,Harrison County,41310,61904,29,378,2961904
+Diggins,NA,0,Diggins,City,Springfield,Webster County,134088,19504,29,270,2919504
+Novinger,NA,0,Novinger,City,Kirksville,Adair County,56568,53534,29,382,2953534
+Cleveland,NA,0,Cleveland,City,Kansas City,Cass County,237028,14770,29,572,2914770
+Lewis and Clark Village,NA,0,Lewis and Clark Village,City,St. Joseph,Buchanan County,115540,41834,29,142,2941834
+Galt,NA,0,Galt,City,,Grundy County,38706,26362,29,184,2926362
+Fidelity,NA,0,Fidelity,City,Joplin,Jasper County,98244,24120,29,231,2924120
+Hayward,NA,0,Hayward,City,,Pemiscot County,56482,31186,29,117,2931186
+Merwin,NA,0,Merwin,City,Kansas City,Bates County,50387,47540,29,30,2947540
+Theodosia,NA,0,Theodosia,City,,Ozark County,113097,72898,29,168,2972898
+Bull Creek Village,NA,0,Bull Creek Village,City,Branson,Taney County,104353,09642,29,524,2909642
+Pierpont,NA,0,Pierpont,City,Columbia,Boone County,226095,57512,29,69,2957512
+Renick,NA,0,Renick,City,Moberly,Randolph County,74063,61166,29,152,2961166
+Freeman,NA,0,Freeman,City,Kansas City,Cass County,125824,25894,29,517,2925894
+Farley,NA,0,Farley,City,Kansas City,Platte County,145134,23698,29,250,2923698
+Old Appleton,NA,0,Old Appleton,City,Cape Girardeau,Cape Girardeau County,115333,54200,29,65,2954200
+Deepwater,NA,0,Deepwater,City,,Henry County,43049,18730,29,432,2918730
+Windsor Place,NA,0,Windsor Place,City,,Cooper County,172585,80380,29,361,2980380
+Halfway,NA,0,Halfway,City,Springfield,Polk County,97478,29962,29,136,2929962
+Strasburg,NA,0,Strasburg,City,Kansas City,Cass County,104536,71098,29,129,2971098
+Tallapoosa,NA,0,Tallapoosa,City,,New Madrid County,42075,72196,29,134,2972196
+Lake Annette,NA,0,Lake Annette,City,Kansas City,Cass County,106041,39845,29,114,2939845
+Chain of Rocks,NA,0,Chain of Rocks,City,St. Louis,Lincoln County,157437,13006,29,95,2913006
+Wardell,NA,0,Wardell,City,,Pemiscot County,53717,76966,29,234,2976966
+Brownwood,NA,0,Brownwood,City,,Stoddard County,42368,NA,NA,NA,NA
+Weldon Spring Heights,NA,0,Weldon Spring Heights,City,St. Louis,Saint Charles County,369859,78334,29,93,2978334
+Waldron,NA,0,Waldron,City,Kansas City,Platte County,139866,NA,NA,NA,NA
+Parkdale,NA,0,Parkdale,City,St. Louis,Jefferson County,146177,56226,29,186,2956226
+Mount Sterling,NA,0,Mount Sterling,City,,Gasconade County,83009,NA,NA,NA,NA
+Fletcher,NA,0,Fletcher,City,St. Louis,Jefferson County,159466,NA,NA,NA,NA
+West Sullivan,NA,0,West Sullivan,City,,Crawford County,105990,79000,29,197,2979000
+Gordonville,NA,0,Gordonville,City,Cape Girardeau,Cape Girardeau County,187433,27928,29,511,2927928
+North Lilbourn,NA,0,North Lilbourn,City,,New Madrid County,38093,53138,29,8,2953138
+Zanoni,NA,0,Zanoni,City,,Ozark County,146495,NA,NA,NA,NA
+Mosby,NA,0,Mosby,City,Kansas City,Clay County,109386,50168,29,164,2950168
+Baldwin Park,NA,0,Baldwin Park,City,Kansas City,Cass County,95863,03124,29,97,2903124
+Lithium,NA,0,Lithium,City,,Perry County,60597,43346,29,117,2943346
+Tiff City,NA,0,Tiff City,City,Fayetteville-Springdale-Rogers,McDonald County,76820,NA,NA,NA,NA
+Miramiguoa Park,NA,0,Miramiguoa Park,City,St. Louis,Franklin County,92754,48880,29,94,2948880
+Hermitage,NA,0,Hermitage,City,,Hickory County,100593,31780,29,769,2931780
+Alba,NA,NA,NA,NA,NA,NA,NA,00496,29,710,2900496
+Aldrich,NA,NA,NA,NA,NA,NA,NA,00568,29,66,2900568
+Alexandria,NA,NA,NA,NA,NA,NA,NA,00604,29,103,2900604
+Allendale,NA,NA,NA,NA,NA,NA,NA,00712,29,64,2900712
+Allenville,NA,NA,NA,NA,NA,NA,NA,00748,29,138,2900748
+Anniston,NA,NA,NA,NA,NA,NA,NA,01288,29,145,2901288
+Arbela,NA,NA,NA,NA,NA,NA,NA,01576,29,31,2901576
+Arrow Point,NA,NA,NA,NA,NA,NA,NA,02034,29,111,2902034
+Arrow Rock,NA,NA,NA,NA,NA,NA,NA,02044,29,45,2902044
+Ashley,NA,NA,NA,NA,NA,NA,NA,02260,29,75,2902260
+Avilla,NA,NA,NA,NA,NA,NA,NA,02746,29,68,2902746
+Bagnell,NA,NA,NA,NA,NA,NA,NA,02962,29,34,2902962
+Baring,NA,NA,NA,NA,NA,NA,NA,03322,29,136,2903322
+Bellflower,NA,NA,NA,NA,NA,NA,NA,04330,29,384,2904330
+Bennett Springs,NA,NA,NA,NA,NA,NA,NA,04525,29,151,2904525
+Beverly Hills,NA,NA,NA,NA,NA,NA,NA,05248,29,505,2905248
+Big Lake,NA,NA,NA,NA,NA,NA,NA,05495,29,102,2905495
+Big Spring,NA,NA,NA,NA,NA,NA,NA,05608,29,268,2905608
+Bigelow,NA,NA,NA,NA,NA,NA,NA,05464,29,8,2905464
+Blanchard,NA,NA,NA,NA,NA,NA,NA,06247,29,17,2906247
+Brandsville,NA,NA,NA,NA,NA,NA,NA,07948,29,99,2907948
+Brewer,NA,NA,NA,NA,NA,NA,NA,08272,29,324,2908272
+Burgess,NA,NA,NA,NA,NA,NA,NA,09802,29,66,2909802
+Canalou,NA,NA,NA,NA,NA,NA,NA,11026,29,215,2911026
+Carl Junction,NA,NA,NA,NA,NA,NA,NA,11368,29,7995,2911368
+Carterville,NA,NA,NA,NA,NA,NA,NA,11638,29,2134,2911638
+Cave,NA,NA,NA,NA,NA,NA,NA,12079,29,4,2912079
+Champ,NA,NA,NA,NA,NA,NA,NA,13078,29,5,2913078
+Charmwood,NA,NA,NA,NA,NA,NA,NA,13390,29,40,2913390
+Cherokee Pass,NA,NA,NA,NA,NA,NA,NA,13474,29,327,2913474
+Chesapeake,NA,NA,NA,NA,NA,NA,NA,13582,29,38,2913582
+Cobalt,NA,NA,NA,NA,NA,NA,NA,15220,29,242,2915220
+Commerce,NA,NA,NA,NA,NA,NA,NA,15760,29,73,2915760
+Corning,NA,NA,NA,NA,NA,NA,NA,16462,29,5,2916462
+Country Club Hills,NA,NA,NA,NA,NA,NA,NA,16822,29,1393,2916822
+Craig,NA,NA,NA,NA,NA,NA,NA,17056,29,231,2917056
+Dalton,NA,NA,NA,NA,NA,NA,NA,18118,29,3,2918118
+Danville,NA,NA,NA,NA,NA,NA,NA,18190,29,26,2918190
+Defiance,NA,NA,NA,NA,NA,NA,NA,18910,29,88,2918910
+Delta,NA,NA,NA,NA,NA,NA,NA,19072,29,415,2919072
+Denver,NA,NA,NA,NA,NA,NA,NA,19162,29,34,2919162
+Des Arc,NA,NA,NA,NA,NA,NA,NA,19198,29,211,2919198
+Downing,NA,NA,NA,NA,NA,NA,NA,19990,29,408,2919990
+Duenweg,NA,NA,NA,NA,NA,NA,NA,20314,29,1370,2920314
+Dutchtown,NA,NA,NA,NA,NA,NA,NA,20566,29,22,2920566
+Eagle Rock,NA,NA,NA,NA,NA,NA,NA,20656,29,163,2920656
+Edina,NA,NA,NA,NA,NA,NA,NA,21322,29,1139,2921322
+Edinburg,NA,NA,NA,NA,NA,NA,NA,21340,29,137,2921340
+Emerald Beach,NA,NA,NA,NA,NA,NA,NA,22250,29,276,2922250
+Excelsior Estates,NA,NA,NA,NA,NA,NA,NA,23077,29,203,2923077
+Fairdealing,NA,NA,NA,NA,NA,NA,NA,23248,29,819,2923248
+Flordell Hills,NA,NA,NA,NA,NA,NA,NA,24706,29,898,2924706
+Forest City,NA,NA,NA,NA,NA,NA,NA,25066,29,250,2925066
+Fortescue,NA,NA,NA,NA,NA,NA,NA,25228,29,42,2925228
+Frankclay,NA,NA,NA,NA,NA,NA,NA,25516,29,166,2925516
+Gentry,NA,NA,NA,NA,NA,NA,NA,26776,29,63,2926776
+Gerster,NA,NA,NA,NA,NA,NA,NA,26902,29,26,2926902
+Gilliam,NA,NA,NA,NA,NA,NA,NA,27028,29,198,2927028
+Glen Allen,NA,NA,NA,NA,NA,NA,NA,27280,29,192,2927280
+Glenwood,NA,NA,NA,NA,NA,NA,NA,27514,29,214,2927514
+Goodnight,NA,NA,NA,NA,NA,NA,NA,27900,29,20,2927900
+Grand Pass,NA,NA,NA,NA,NA,NA,NA,28198,29,76,2928198
+Grandin,NA,NA,NA,NA,NA,NA,NA,28180,29,269,2928180
+Granger,NA,NA,NA,NA,NA,NA,NA,28360,29,30,2928360
+Grant City,NA,NA,NA,NA,NA,NA,NA,28594,29,908,2928594
+Grayhawk,NA,NA,NA,NA,NA,NA,NA,28860,29,686,2928860
+Grayridge,NA,NA,NA,NA,NA,NA,NA,28864,29,143,2928864
+Greenville,NA,NA,NA,NA,NA,NA,NA,29476,29,546,2929476
+Hanley Hills,NA,NA,NA,NA,NA,NA,NA,30196,29,1832,2930196
+Hartwell,NA,NA,NA,NA,NA,NA,NA,30772,29,37,2930772
+High Hill,NA,NA,NA,NA,NA,NA,NA,31996,29,214,2931996
+Hillsdale,NA,NA,NA,NA,NA,NA,NA,32266,29,1335,2932266
+Homestead,NA,NA,NA,NA,NA,NA,NA,32806,29,124,2932806
+Homestown,NA,NA,NA,NA,NA,NA,NA,32824,29,114,2932824
+Horine,NA,NA,NA,NA,NA,NA,NA,33040,29,1295,2933040
+Humphreys,NA,NA,NA,NA,NA,NA,NA,33742,29,81,2933742
+Hunter,NA,NA,NA,NA,NA,NA,NA,33778,29,128,2933778
+Hurdland,NA,NA,NA,NA,NA,NA,NA,33904,29,148,2933904
+Iatan,NA,NA,NA,NA,NA,NA,NA,34210,29,48,2934210
+Irena,NA,NA,NA,NA,NA,NA,NA,35324,29,21,2935324
+Irwin,NA,NA,NA,NA,NA,NA,NA,35486,29,49,2935486
+Jane,NA,NA,NA,NA,NA,NA,NA,36422,29,445,2936422
+Jasper,NA,NA,NA,NA,NA,NA,NA,36512,29,968,2936512
+Josephville,NA,NA,NA,NA,NA,NA,NA,37700,29,372,2937700
+Junction City,NA,NA,NA,NA,NA,NA,NA,37736,29,309,2937736
+Knox City,NA,NA,NA,NA,NA,NA,NA,39278,29,241,2939278
+La Due,NA,NA,NA,NA,NA,NA,NA,39638,29,46,2939638
+LaBarque Creek,NA,NA,NA,NA,NA,NA,NA,39503,29,1668,2939503
+Lake Mykee Town,NA,NA,NA,NA,NA,NA,NA,39990,29,450,2939990
+Lake Tekakwitha,NA,NA,NA,NA,NA,NA,NA,40214,29,220,2940214
+Lake Viking,NA,NA,NA,NA,NA,NA,NA,40304,29,360,2940304
+Lancaster,NA,NA,NA,NA,NA,NA,NA,40610,29,853,2940610
+Lee's Summit,NA,NA,NA,NA,NA,NA,NA,41348,29,96325,2941348
+Leisure Lake,NA,NA,NA,NA,NA,NA,NA,41417,29,123,2941417
+Levasy,NA,NA,NA,NA,NA,NA,NA,41762,29,82,2941762
+Loch Lloyd,NA,NA,NA,NA,NA,NA,NA,43468,29,649,2943468
+Lupus,NA,NA,NA,NA,NA,NA,NA,44498,29,29,2944498
+Luray,NA,NA,NA,NA,NA,NA,NA,44516,29,87,2944516
+Maitland,NA,NA,NA,NA,NA,NA,NA,45596,29,289,2945596
+Malta Bend,NA,NA,NA,NA,NA,NA,NA,45632,29,240,2945632
+McBaine,NA,NA,NA,NA,NA,NA,NA,44768,29,9,2944768
+McKittrick,NA,NA,NA,NA,NA,NA,NA,45200,29,56,2945200
+Merriam Woods,NA,NA,NA,NA,NA,NA,NA,47520,29,2001,2947520
+Metz,NA,NA,NA,NA,NA,NA,NA,47612,29,33,2947612
+Miami,NA,NA,NA,NA,NA,NA,NA,47684,29,92,2947684
+Milford,NA,NA,NA,NA,NA,NA,NA,48098,29,18,2948098
+Mill Spring,NA,NA,NA,NA,NA,NA,NA,48386,29,130,2948386
+Mine La Motte,NA,NA,NA,NA,NA,NA,NA,48602,29,332,2948602
+Montier,NA,NA,NA,NA,NA,NA,NA,49610,29,23,2949610
+Morehouse,NA,NA,NA,NA,NA,NA,NA,49898,29,913,2949898
+Mound City,NA,NA,NA,NA,NA,NA,NA,50312,29,1114,2950312
+Mount Leonard,NA,NA,NA,NA,NA,NA,NA,50510,29,42,2950510
+Murphy,NA,NA,NA,NA,NA,NA,NA,50834,29,8163,2950834
+Naylor,NA,NA,NA,NA,NA,NA,NA,51302,29,793,2951302
+New Melle,NA,NA,NA,NA,NA,NA,NA,52148,29,442,2952148
+Newark,NA,NA,NA,NA,NA,NA,NA,51662,29,82,2951662
+Newburg,NA,NA,NA,NA,NA,NA,NA,51716,29,492,2951716
+Novelty,NA,NA,NA,NA,NA,NA,NA,53516,29,175,2953516
+O'Fallon,NA,NA,NA,NA,NA,NA,NA,54074,29,86340,2954074
+Oakview,NA,NA,NA,NA,NA,NA,NA,53858,29,482,2953858
+Old Jamestown,NA,NA,NA,NA,NA,NA,NA,54352,29,19439,2954352
+Oronogo,NA,NA,NA,NA,NA,NA,NA,54920,29,2580,2954920
+Osgood,NA,NA,NA,NA,NA,NA,NA,55424,29,20,2955424
+Oxly,NA,NA,NA,NA,NA,NA,NA,55694,29,160,2955694
+Ozora,NA,NA,NA,NA,NA,NA,NA,55892,29,117,2955892
+Parma,NA,NA,NA,NA,NA,NA,NA,56342,29,660,2956342
+Passaic,NA,NA,NA,NA,NA,NA,NA,56468,29,20,2956468
+Peaceful Village,NA,NA,NA,NA,NA,NA,NA,56620,29,43,2956620
+Pendleton,NA,NA,NA,NA,NA,NA,NA,56882,29,34,2956882
+Plevna,NA,NA,NA,NA,NA,NA,NA,58574,29,13,2958574
+Portage Des Sioux,NA,NA,NA,NA,NA,NA,NA,59150,29,376,2959150
+Purcell,NA,NA,NA,NA,NA,NA,NA,60140,29,468,2960140
+Queen City,NA,NA,NA,NA,NA,NA,NA,60356,29,694,2960356
+Ravanna,NA,NA,NA,NA,NA,NA,NA,60644,29,92,2960644
+Revere,NA,NA,NA,NA,NA,NA,NA,61292,29,60,2961292
+Richards,NA,NA,NA,NA,NA,NA,NA,61364,29,181,2961364
+Riverview Estates,NA,NA,NA,NA,NA,NA,NA,62210,29,79,2962210
+Rushville,NA,NA,NA,NA,NA,NA,NA,63596,29,250,2963596
+Rutledge,NA,NA,NA,NA,NA,NA,NA,63776,29,83,2963776
+South Fork,NA,NA,NA,NA,NA,NA,NA,68762,29,92,2968762
+South Gorin,NA,NA,NA,NA,NA,NA,NA,68870,29,87,2968870
+South Lineville,NA,NA,NA,NA,NA,NA,NA,68942,29,12,2968942
+Southwest City,NA,NA,NA,NA,NA,NA,NA,69230,29,1238,2969230
+Stotesbury,NA,NA,NA,NA,NA,NA,NA,70954,29,17,2970954
+Stoutland,NA,NA,NA,NA,NA,NA,NA,71008,29,185,2971008
+Sumner,NA,NA,NA,NA,NA,NA,NA,71620,29,113,2971620
+Terre du Lac,NA,NA,NA,NA,NA,NA,NA,72772,29,2663,2972772
+Three Creeks,NA,NA,NA,NA,NA,NA,NA,73127,29,8,2973127
+Triplett,NA,NA,NA,NA,NA,NA,NA,73870,29,16,2973870
+Umber View Heights,NA,NA,NA,NA,NA,NA,NA,74473,29,51,2974473
+Unity Village,NA,NA,NA,NA,NA,NA,NA,75202,29,92,2975202
+Vandiver,NA,NA,NA,NA,NA,NA,NA,75706,29,75,2975706
+Velda City,NA,NA,NA,NA,NA,NA,NA,75796,29,1367,2975796
+Vista,NA,NA,NA,NA,NA,NA,NA,76390,29,64,2976390
+Waco,NA,NA,NA,NA,NA,NA,NA,76444,29,59,2976444
+Webb City,NA,NA,NA,NA,NA,NA,NA,78118,29,11572,2978118
+Weingarten,NA,NA,NA,NA,NA,NA,NA,78226,29,74,2978226
+Wellston,NA,NA,NA,NA,NA,NA,NA,78370,29,1775,2978370
+Whiteside,NA,NA,NA,NA,NA,NA,NA,79558,29,60,2979558
+Whitewater,NA,NA,NA,NA,NA,NA,NA,79612,29,116,2979612
+Wilson City,NA,NA,NA,NA,NA,NA,NA,80260,29,51,2980260
+Worth,NA,NA,NA,NA,NA,NA,NA,81070,29,65,2981070
+Wortham,NA,NA,NA,NA,NA,NA,NA,81088,29,226,2981088
+Worthington,NA,NA,NA,NA,NA,NA,NA,81106,29,201,2981106
+Wyaconda,NA,NA,NA,NA,NA,NA,NA,81142,29,190,2981142
